@@ -1,35 +1,38 @@
 # Work Routing
 
-How to decide who handles what.
-
 ## Routing Table
 
 | Work Type | Route To | Examples |
-|-----------|----------|----------|
-
-Preset installation adds concrete routes for the configured team. Add or edit rows
-here only when their agent names also exist in the casting registry.
+|---|---|---|
+| showrunner / Creative synthesis, tone, premise and assignment briefs | Alex | development/brief/creative-brief.md |
+| development / Independent coverage, positioning and package strategy | Lauren | reviews/development-coverage.md; package/README.md |
+| story / Ten-episode season architecture, continuity and notes | Maya | development/season/; development/canon/; reviews/notes.csv; reviews/meetings/ |
+| writer / Pilot outline, Fountain screenplay and revisions | Charlie | development/pilot/ |
+| history / Birmingham history, period detail and factual evidence | Julian | research/history/; research/claims.csv |
+| dramaturg / Character agency, cultural specificity and violence framing | Nina | reviews/dramaturgy.md |
+| legal / Historical case and estate mechanics; engage during diagnosis | Morgan | research/legal/ |
+| pitch / Pitch deck and visual approach after architecture stabilizes | Jamie | package/deck/ |
 
 ## Issue Routing
 
 | Label | Action | Who |
-|-------|--------|-----|
-| `squad` | Triage: analyze issue, assign `squad:{member}` label | Lead |
-| `squad:{name}` | Pick up issue and complete the work | Named member |
-
-### How Issue Assignment Works
-
-1. When a GitHub issue gets the `squad` label, the **Lead** triages it — analyzing content, assigning the right `squad:{member}` label, and commenting with triage notes.
-2. When a `squad:{member}` label is applied, that member picks up the issue in their next session.
-3. Members can reassign by removing their label and adding another member's label.
-4. The `squad` label is the "inbox" — untriaged issues waiting for Lead review.
+|---|---|---|
+| squad | Triage a scoped development task | Alex |
+| squad:alex | Assign within the charter and project phase | Alex |
+| squad:lauren | Assign within the charter and project phase | Lauren |
+| squad:maya | Assign within the charter and project phase | Maya |
+| squad:charlie | Assign within the charter and project phase | Charlie |
+| squad:julian | Assign within the charter and project phase | Julian |
+| squad:nina | Assign within the charter and project phase | Nina |
+| squad:morgan | Assign within the charter and project phase | Morgan |
+| squad:jamie | Assign within the charter and project phase | Jamie |
 
 ## Rules
 
-1. **Eager by default** — spawn all agents who could usefully start work, including anticipatory downstream work.
-2. **Scribe always runs** after substantial work, always as `mode: "background"`. Never blocks.
-3. **Quick facts → coordinator answers directly.** Don't spawn an agent for "what port does the server run on?"
-4. **When two agents could handle it**, pick the one whose domain is the primary concern.
-5. **"Team, ..." → fan-out.** Spawn all relevant agents in parallel as `mode: "background"`.
-6. **Anticipate downstream work.** If a feature is being built, spawn the tester to write test cases from requirements simultaneously.
-7. **Issue-labeled work** — when a `squad:{member}` label is applied to an issue, route to that member. The Lead handles all `squad` (base label) triage.
+1. First names and IDs map to the fixed roster; full names are in meet-the-squad.md. Functional aliases describe domains.
+2. Alex owns creative integration. Lauren independently reviews story deliverables; Paul owns final creative approval. Maya owns continuity, while Charlie owns the integrated Fountain master.
+3. Begin only work that has actually been tasked. Respect the creative-brief, season-break and pilot-outline dependencies. Parallelize at most three independent assignments; do not draft dependent artifacts speculatively.
+4. Morgan participates in initial legal diagnosis and later procedural checks. Jamie joins once story architecture is stable.
+5. Scribe/Sam merges accepted durable decisions only. Maya owns requested meeting notes. Built-in support agents are not specialist routing destinations.
+6. Use .squad/governance.md for ownership and review. Routine editorial notes are not formal blocking rejections.
+7. No automatic merge, external publication, outreach or submission is authorized by routing.
