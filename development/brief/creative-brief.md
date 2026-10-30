@@ -12,7 +12,7 @@ Status: explicit requirements recorded; development diagnosis pending.
 
 ## Source-backed starting point
 
-The source treatment follows Callie Mori investigating her father Eli's estate and the Birmingham case involving Caleb Caldwell and Eli's partner Leon. Treat its plot details as source-backed creative material, subject to explicit development proposals. Its contents are not independently verified historical or legal facts. The treatment itself is local-only pending publication approval; see the [source inventory](../../source/README.md) before diagnosis.
+The [source treatment](<../../source/MEMENTO MORI.txt>) follows Callie Mori investigating her father Eli's estate and the Birmingham case involving Caleb Caldwell and Eli's partner Leon. Treat its plot details as source-backed creative material, subject to explicit development proposals. Its contents are not independently verified historical or legal facts. The original treatment is included with Paul's explicit publication approval; see the [source inventory](../../source/README.md) before diagnosis.
 
 ## Proposed, awaiting creative review
 

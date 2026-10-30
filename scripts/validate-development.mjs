@@ -14,11 +14,9 @@ const expectedNames = {
   morgan: 'Morgan Shaw', jamie: 'Jamie Vale',
 };
 let checks = 0;
-let skipped = 0;
 function check(label, test) {
   try {
-    const result = test();
-    if (result === 'skip') { skipped++; console.log(`SKIP ${label}`); return; }
+    test();
     checks++; console.log(`PASS ${label}`);
   }
   catch (error) { console.error(`FAIL ${label}: ${error.message}`); process.exitCode = 1; }
@@ -42,11 +40,9 @@ check('ten-episode project, author, team and Fountain format', () => {
 check('preserved original source bytes', () => {
   const manifest = json('source/manifest.json');
   const sourcePath = path.join(root, 'source', manifest.file);
-  if (!fs.existsSync(sourcePath)) {
-    assert.equal(manifest.repository_copy, 'not-published-pending-explicit-approval');
-    console.log('Original treatment is local-only and unavailable in this checkout; diagnosis requires a local copy.');
-    return 'skip';
-  }
+  assert.equal(manifest.repository_copy, 'included');
+  assert.ok(manifest.publication_approved_on && manifest.approval_provenance);
+  assert.ok(fs.existsSync(sourcePath), 'Required original treatment is missing');
   const bytes = fs.readFileSync(sourcePath);
   assert.equal(bytes.length, manifest.bytes);
   assert.equal(sha(bytes), manifest.sha256);
@@ -132,4 +128,4 @@ check('new project Markdown links resolve locally', () => {
     }
   }
 });
-if (!process.exitCode) console.log(`Validated ${checks} project checks (${skipped} source checks skipped). Creative, legal and screenplay rendering review remain separate.`);
+if (!process.exitCode) console.log(`Validated ${checks} project checks. Creative, legal and screenplay rendering review remain separate.`);
