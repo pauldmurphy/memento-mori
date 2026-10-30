@@ -4,7 +4,7 @@ A ten-episode dual-timeline prestige drama by **Paul Murphy**, developed with **
 
 ## Current status
 
-The repository contains the project team configuration and development working documents. The original treatment is retained locally and excluded from this public repository pending explicit publication approval. Development diagnosis is the next assignment and requires that local source. The bible, pilot and completed series package have not been written. Approximately hour-long episodes and limited-series positioning remain proposals.
+The repository contains the project team configuration, original treatment and development working documents. Paul explicitly authorized publishing the original treatment to this public repository. Development diagnosis is the next assignment. The bible, pilot and completed series package have not been written. Approximately hour-long episodes and limited-series positioning remain proposals.
 
 **Screenplay format: Fountain (.fountain).** All screenplay drafts, revisions and scripted sample scenes use Fountain; reader PDFs are exported from the approved Fountain master. FDX is excluded.
 
@@ -12,7 +12,7 @@ The repository contains the project team configuration and development working d
 
 - [Meet Canyon House Pictures](meet-the-squad.md)
 - [Creative brief](development/brief/creative-brief.md) and [first assignment](development/brief/first-assignment.md)
-- [Source inventory and local-source instructions](source/README.md)
+- [Original treatment](<source/MEMENTO MORI.txt>) and [source inventory](source/README.md)
 - [Squad blueprint and setup prompt](docs/squad/README.md)
 - [Fountain workflow](docs/fountain-workflow.md)
 - [Package checklist](package/README.md)

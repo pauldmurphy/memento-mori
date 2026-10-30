@@ -1,6 +1,6 @@
 # First assignment — development diagnosis
 
-Status: queued; not executed by repository setup. Requires the original treatment at the local ignored path `source/MEMENTO MORI.txt`; see [source instructions](../../source/README.md). Do not begin source-dependent work if that file is unavailable.
+Status: queued; not executed by repository setup. Read the tracked original treatment at `source/MEMENTO MORI.txt`; see [source instructions](../../source/README.md). Do not begin source-dependent work if that file is unavailable.
 
 Read the complete source treatment and preserved planning blueprint. Alex coordinates; Lauren supplies independent coverage; Maya inventories source-backed story facts, chronology and contradictions; Julian plans historical research; Morgan examines procedural research needs; Nina assesses character agency and moral perspective. Charlie may assess screen dramatization without drafting scenes. Jamie joins when visual/packaging input is actually useful.
 
