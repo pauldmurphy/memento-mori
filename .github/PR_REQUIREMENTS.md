@@ -6,6 +6,6 @@
 - Preserve the source treatment byte-for-byte; disclose intentional source replacement separately.
 - Label proposed story changes and unresolved historical/legal questions. Do not report creative or professional approval that has not occurred.
 - Check exported screenplay PDFs against their Fountain sources when scripts actually exist.
-- Keep the change focused and ready for Paul's review. Do not merge or publish solely because a check passed.
+- Keep the change focused and ready for designated independent review and Alex's delegated approval. Merge only after required checks pass, independent review is complete and Alex approves. Alex may authorize public release, submission and outreach for approved project materials without further Paul approval. A passing check alone does not authorize merge or publication.
 
 These are repository working requirements. No GitHub branch-protection settings are asserted or modified by this document.
