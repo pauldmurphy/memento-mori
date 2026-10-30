@@ -5,3 +5,8 @@
 .squad/orchestration-log/** merge=union
 .squad/rai/audit-trail.md merge=union
 .squad/fact-checker/audit-trail.md merge=union
+
+# Project screenplay and hash-sensitive source formats
+*.fountain text eol=lf
+.squad/casting/*.json text eol=lf
+source/*.txt -text -whitespace

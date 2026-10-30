@@ -1,8 +1,89 @@
 {
   "schema": "squad-agent-provenance/v1",
   "schema_version": 1,
-  "revision": 1,
-  "generated_at": "1970-01-01T00:00:00.000Z",
-  "agents": {},
-  "transaction_id": "e6bb166c-eb58-49ef-8f0d-cd4e29cd8c10"
+  "revision": 2,
+  "generated_at": "2026-10-30T04:10:14.205Z",
+  "agents": {
+    "alex": {
+      "display_name": "Alex",
+      "persistent_name": "Alex",
+      "role": "Showrunner / Head Writer",
+      "universe": "Canyon House Pictures",
+      "status": "active",
+      "created_at": "2026-10-30T04:10:14.205Z",
+      "updated_at": "2026-10-30T04:10:14.205Z",
+      "legacy_named": false
+    },
+    "lauren": {
+      "display_name": "Lauren",
+      "persistent_name": "Lauren",
+      "role": "Development Producer",
+      "universe": "Canyon House Pictures",
+      "status": "active",
+      "created_at": "2026-10-30T04:10:14.205Z",
+      "updated_at": "2026-10-30T04:10:14.205Z",
+      "legacy_named": false
+    },
+    "maya": {
+      "display_name": "Maya",
+      "persistent_name": "Maya",
+      "role": "Story Editor / Room Coordinator",
+      "universe": "Canyon House Pictures",
+      "status": "active",
+      "created_at": "2026-10-30T04:10:14.205Z",
+      "updated_at": "2026-10-30T04:10:14.205Z",
+      "legacy_named": false
+    },
+    "charlie": {
+      "display_name": "Charlie",
+      "persistent_name": "Charlie",
+      "role": "Lead Pilot Writer",
+      "universe": "Canyon House Pictures",
+      "status": "active",
+      "created_at": "2026-10-30T04:10:14.205Z",
+      "updated_at": "2026-10-30T04:10:14.205Z",
+      "legacy_named": false
+    },
+    "julian": {
+      "display_name": "Julian",
+      "persistent_name": "Julian",
+      "role": "Historical Research Editor",
+      "universe": "Canyon House Pictures",
+      "status": "active",
+      "created_at": "2026-10-30T04:10:14.205Z",
+      "updated_at": "2026-10-30T04:10:14.205Z",
+      "legacy_named": false
+    },
+    "nina": {
+      "display_name": "Nina",
+      "persistent_name": "Nina",
+      "role": "Cultural and Character Dramaturg",
+      "universe": "Canyon House Pictures",
+      "status": "active",
+      "created_at": "2026-10-30T04:10:14.205Z",
+      "updated_at": "2026-10-30T04:10:14.205Z",
+      "legacy_named": false
+    },
+    "morgan": {
+      "display_name": "Morgan",
+      "persistent_name": "Morgan",
+      "role": "Legal / Procedural Researcher",
+      "universe": "Canyon House Pictures",
+      "status": "active",
+      "created_at": "2026-10-30T04:10:14.205Z",
+      "updated_at": "2026-10-30T04:10:14.205Z",
+      "legacy_named": false
+    },
+    "jamie": {
+      "display_name": "Jamie",
+      "persistent_name": "Jamie",
+      "role": "Pitch Designer / Visual Development",
+      "universe": "Canyon House Pictures",
+      "status": "active",
+      "created_at": "2026-10-30T04:10:14.205Z",
+      "updated_at": "2026-10-30T04:10:14.205Z",
+      "legacy_named": false
+    }
+  },
+  "transaction_id": "bf759955-9a6e-475f-ac99-e90ba8b8ccf9"
 }
