@@ -30,9 +30,9 @@
 ## Rules
 
 1. First names and IDs map to the fixed roster; full names are in meet-the-squad.md. Functional aliases describe domains.
-2. Alex owns creative integration. Lauren independently reviews story deliverables; Paul owns final creative approval. Maya owns continuity, while Charlie owns the integrated Fountain master.
+2. Alex owns creative integration and ongoing final creative approval under Paul's durable authorization. Lauren independently reviews story deliverables. Paul remains credited as creator of the original treatment; no additional Paul approval is required within the delegated scope. Maya owns continuity, while Charlie owns the integrated Fountain master.
 3. Begin only work that has actually been tasked. Respect the creative-brief, season-break and pilot-outline dependencies. Parallelize at most three independent assignments; do not draft dependent artifacts speculatively.
 4. Morgan participates in initial legal diagnosis and later procedural checks. Jamie joins once story architecture is stable.
 5. Scribe/Sam merges accepted durable decisions only. Maya owns requested meeting notes. Built-in support agents are not specialist routing destinations.
 6. Use .squad/governance.md for ownership and review. Routine editorial notes are not formal blocking rejections.
-7. No automatic merge, external publication, outreach or submission is authorized by routing.
+7. Merge reviewed PRs only after required checks pass and designated independent review is complete. Alex may approve and authorize public release, submissions and outreach for project materials without further Paul approval.
