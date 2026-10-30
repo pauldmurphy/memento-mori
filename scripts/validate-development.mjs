@@ -16,7 +16,11 @@ const expectedNames = {
 let checks = 0;
 let skipped = 0;
 function check(label, test) {
-  try { test(); checks++; console.log(`PASS ${label}`); }
+  try {
+    const result = test();
+    if (result === 'skip') { skipped++; console.log(`SKIP ${label}`); return; }
+    checks++; console.log(`PASS ${label}`);
+  }
   catch (error) { console.error(`FAIL ${label}: ${error.message}`); process.exitCode = 1; }
 }
 function filesIn(relative) {
@@ -40,9 +44,8 @@ check('preserved original source bytes', () => {
   const sourcePath = path.join(root, 'source', manifest.file);
   if (!fs.existsSync(sourcePath)) {
     assert.equal(manifest.repository_copy, 'not-published-pending-explicit-approval');
-    skipped++;
-    console.log('SKIP source bytes: original treatment is local-only and unavailable in this checkout; diagnosis requires a local copy.');
-    return;
+    console.log('Original treatment is local-only and unavailable in this checkout; diagnosis requires a local copy.');
+    return 'skip';
   }
   const bytes = fs.readFileSync(sourcePath);
   assert.equal(bytes.length, manifest.bytes);
@@ -60,7 +63,7 @@ check('specialist registry, charters, roster and label IDs agree', () => {
   assert.deepEqual(Object.keys(registry.agents).sort(), Object.keys(expectedNames).sort());
   const team = text('.squad/team.md');
   const routing = text('.squad/routing.md');
-  const members = team.split('## Members\n')[1]?.split('\n## ')[0];
+  const members = team.replace(/\r\n/g, '\n').split('## Members\n')[1]?.split('\n## ')[0];
   assert.ok(members, '## Members roster is required');
   const seenNames = new Set();
   for (const [id, fullName] of Object.entries(expectedNames)) {
