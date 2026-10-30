@@ -6,18 +6,18 @@ Prepared for: Paul Murphy
 
 Date: 2026-10-30
 
-Status: Alex's integrated diagnosis and recommendations; not approved canon
+Status: Alex’s integrated diagnosis and recommendations; the season architecture remains provisional and has not received Alex’s final approval. No pilot outline or screenplay is approved. Under Paul Murphy’s durable direct delegation, Alex has final creative decision authority and may approve canon and the project package on Paul’s behalf. This authority does not retroactively approve existing content or transfer copyright or repository ownership; Paul remains credited as creator of the original treatment, and no additional approval from Paul is reserved within this scope. The team may create and merge reviewed PRs once required checks pass and designated independent review is complete. Alex may authorize publication, submission or outreach only for materials Alex approves after required independent review and checks.
 
-Gate: Paul's creative-brief review; no season break or screenplay drafting authorized
+Gate: Alex’s explicit season-architecture approval remains pending after the required independent review; no pilot or screenplay is approved.
 
 ## Evidence and authority used
 
 This diagnosis reads the complete preserved treatment, the explicit project brief, and the preserved planning blueprint. The hierarchy is:
 
-1. **Explicit brief:** Paul Murphy is creator and final creative authority; ten episodes; dual-timeline prestige drama; Canyon House Pictures; Fountain-only screenplay workflow.
-2. **Paul-approved canon:** No post-treatment creative changes have yet been approved. Publication of the treatment is approved, but publication is not story approval.
+1. **Explicit brief and authority:** Paul Murphy is creator of the original treatment; ten episodes; dual-timeline prestige drama; Canyon House Pictures; Fountain-only screenplay workflow. Paul has durably delegated final creative decision authority to Alex Bennett, who may approve canon and the project package on Paul’s behalf.
+2. **Approved canon:** No post-treatment creative changes have yet received Alex’s final approval. Publication of the original treatment is separately authorized, but that does not approve later story changes.
 3. **Source-backed story material:** Material present in `source/MEMENTO MORI.txt`. It is creative evidence, not verified history or law.
-4. **Proposal:** Recommendations below awaiting Paul's decision.
+4. **Proposal:** Recommendations below awaiting Alex’s final decision.
 5. **Documented fact:** Only claims supported by a checked source. No external historical or legal findings were verified during this diagnosis.
 6. **Unknown:** Anything the source and explicit brief do not establish.
 
@@ -31,7 +31,7 @@ The planning blueprint is an operating proposal, not canon. Lauren's independent
 |---|---|---|---|
 | `source/MEMENTO MORI.txt` | Preserved creative source | Primary story treatment | 26,164 bytes; SHA-256 `eb7dbe34fc7be6d7646628db75b163b023e27ca63e92513fbe7065a56a6013ee`; matches manifest on 2026-10-30 |
 | `source/manifest.json` | Source-control record | Expected size, hash, provenance | Checked against treatment |
-| `development/brief/creative-brief.md` | Explicit requirements plus proposals | Current assignment boundary | Updated by this branch with recommendations still awaiting Paul |
+| `development/brief/creative-brief.md` | Explicit requirements plus proposals | Current assignment boundary | Updated with recommendations still pending Alex’s final decision |
 | `docs/squad/MEMENTO-MORI-squad-blueprint.md` | Preserved planning proposal | Team design, diagnostic questions, workflow | Not canon; identified as the planning blueprint referenced by the assignment |
 
 ### Source-backed premise and story engine
@@ -61,7 +61,7 @@ The source does **not** establish exact years, ages, present jurisdiction, legal
 
 **Recommendation:** Build three interacting active engines before any season break: (1) a time-bound estate contest with material consequences; (2) a present fight over ownership, publication, and legal exposure of the Caleb record; and (3) a historical storyline in which Caleb, his wife, Eli, and Leon pursue incompatible goals before and after the fatal strategy. Every episode must change what someone can do, not only what Callie knows.
 
-**Alternative:** Reposition as a shorter limited series. **Consequence:** Better fit for the present volume of plot, but violates the explicit ten-episode requirement unless Paul changes it.
+**Alternative:** Reposition as a shorter limited series. **Consequence:** Better fit for the present volume of plot, but violates the explicit ten-episode requirement unless Alex changes it under the durable delegation.
 
 **Alternative:** Add unrelated cases or family scandals. **Consequence:** Adds hours but diffuses the Caleb/Eli moral engine and risks an anthology feel.
 
@@ -148,10 +148,10 @@ The source does **not** establish exact years, ages, present jurisdiction, legal
 | ID | Classification | Issue | Required resolution/owner |
 |---|---|---|---|
 | OQ-01 | Source inconsistency | Caleb's introduction is duplicated almost verbatim. | Editorial cleanup only in future derived materials; preserve source bytes. Alex/Charlie later. |
-| OQ-02 | Unknown | Exact historical and contemporary years; all principal ages. | Paul chooses after Julian/Maya options. |
+| OQ-02 | Unknown | Exact historical and contemporary years; all principal ages. | Alex decides after Julian/Maya options. |
 | OQ-03 | Unknown | Caleb's wife's name, life, goals, knowledge, and role in the bargain. | Nina/Maya proposal; Julian checks period context. |
 | OQ-04 | Unknown | Daniel's and Sarah's present occupations, relationships, prior knowledge, goals, and consent boundaries. | Nina/Maya proposal. |
-| OQ-05 | Unknown | Eli's other children are referenced but not identified or differentiated. | Maya inventories; Paul decides required ensemble size. |
+| OQ-05 | Unknown | Eli's other children are referenced but not identified or differentiated. | Maya inventories; Alex decides required ensemble size. |
 | OQ-06 | Unverified | A 1960s Birmingham interracial law partnership, relevant court access, terminology, press practice, and threat environment as specifically portrayed. | Julian research with dated sources; no finding claimed here. |
 | OQ-07 | Unverified | The underlying case, filing, affidavit, leak, perpetrators, evidence, and possible federal response. | Julian and Morgan jointly map causal/legal options. |
 | OQ-08 | Unverified | Criminal/professional consequences of withholding evidence across the chosen dates and jurisdictions. | Morgan; distinguish then-current law from present exposure. |
@@ -161,8 +161,8 @@ The source does **not** establish exact years, ages, present jurisdiction, legal
 | OQ-12 | Source tension | Cut photograph and intact photograph both exist without provenance. | Establish who altered/copied each image and why. |
 | OQ-13 | Source tension | Eli's death occurs after decades of payments, yet “sixty years ago” and current ages are uncalculated. | Maya age ledger after year decision. |
 | OQ-14 | Thematic risk | “He trusted me” begins as Eli's note and ends as Callie's last words to Ruth; referent and purpose may be unclear. | Preserve as source motif; test viewpoint and final meaning during break. |
-| OQ-15 | Visual risk | Signature/name alignment may not read on screen. | Paul decides whether to demote, seed, or remove. |
-| OQ-16 | Unknown | Present-day material stakes and deadline capable of sustaining ten episodes. | Alex/Maya propose after Paul chooses series engine. |
+| OQ-15 | Visual risk | Signature/name alignment may not read on screen. | Alex decides whether to demote, seed, or remove. |
+| OQ-16 | Unknown | Present-day material stakes and deadline capable of sustaining ten episodes. | Alex/Maya propose after Alex chooses the series engine. |
 
 ## 4. Historical and legal research plan
 
@@ -178,7 +178,7 @@ No external finding is represented as verified in this diagnosis.
 
 ### Morgan Shaw — legal/procedural research brief
 
-1. After Paul selects candidate jurisdictions and dates, map the underlying civil/criminal matter, plausible filing, confidentiality/sealing, disclosure path, evidence custody, threats, and federal/state options using law applicable at the time.
+1. After Alex selects candidate jurisdictions and dates, map the underlying civil/criminal matter, plausible filing, confidentiality/sealing, disclosure path, evidence custody, threats, and federal/state options using law applicable at the time.
 2. Separate historical duties and exposure from present-day duties, limitations, privileges, record access, and professional rules.
 3. Test present probate mechanics: standing, contest grounds, deadlines, discovery, trusts, charitable entities, beneficiaries, settlement authority, video instructions, custodians, competing instruments, and public/private records.
 4. Give three dramatically workable mechanisms for disclosure and settlement, each labeled verified, plausible-but-unverified, or invention.
@@ -186,7 +186,7 @@ No external finding is represented as verified in this diagnosis.
 
 ### Joint research output rules
 
-Every claim needs a stable ID, relevant date and jurisdiction, source citation and pinpoint, what the source actually supports, uncertainty, and intended story use. Research findings constrain the fiction; Paul still decides canon.
+Every claim needs a stable ID, relevant date and jurisdiction, source citation and pinpoint, what the source actually supports, uncertainty, and intended story use. Research findings constrain the fiction; Alex decides canon under the durable delegation.
 
 ## 5. Dramaturgical assessment
 
@@ -208,4 +208,12 @@ The strongest ending is not “Callie solves Eli.” It is “Callie stops solvi
 
 ## Readiness conclusion
 
-The project is ready for Paul's creative-brief decisions and bounded specialist research. It is **not** ready for a season break, pilot outline, scenes, screenplay, or deck. The treatment supports ten episodes only if Paul approves an expanded active engine and a genuine Caldwell-family viewpoint. The historical and legal mechanisms remain unknown pending sourced research.
+The project is ready for Alex’s decision on the integrated creative direction and for bounded specialist research. The existing season break remains provisional: Alex has not yet exercised final approval, which remains pending after the required independent review. The project is **not** ready for a pilot outline, scenes or screenplay; none is approved. The treatment supports ten episodes only if Alex approves an expanded active engine and a genuine Caldwell-family viewpoint. The historical and legal mechanisms remain unknown pending sourced research.
+
+## Subsequent research integration — 2026-10-30
+
+**Status:** This dated addendum refines the initial estate-contest recommendation under Paul Murphy’s durable delegation to Alex Bennett. It preserves the historical diagnosis above and is not Alex’s final season-architecture approval, approved canon, legal advice, or legal clearance. The delegation itself does not retroactively approve existing creative content.
+
+For the provisional 2025 Alabama hypothesis, the proposed story path is one contest filing by Callie **after probate admission and within the current-hypothesis 180-day window** under Ala. Code §§ 43-8-210/215, only if she has standing and a valid ground. No county, admission date, or legal ground is locked. The contest is distinct from disclosure, custody, discovery, notice, settlement, distribution, and publication permission; it is not one combined estate clock and does not automatically trigger any of those steps. It may satisfy Eli’s fictional will/video condition, which remains a story device.
+
+Morgan’s current-code text comes from secondary reproductions cross-checked against an official legislative PDF; the official codified-code portal was unavailable on 2026-10-30. Do not claim official codified verification or legal clearance, and do not infer 1965 law from this current-law hypothesis.

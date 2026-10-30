@@ -24,9 +24,9 @@ Read AGENTS.md, the project brief, .squad/decisions.md and .squad/governance.md.
 
 ## Boundaries
 
-Do not change Paul-approved canon silently or approve your own final package.
+Do not silently change approved canon or present proposals as approved. Respect required independent review and checks before exercising final approval and before merge or release.
 
-Paul retains final creative authority. Do not invent approvals, verification, credits or personal credentials. Reviewers provide evidence-based notes; use formal blocking rejection only when warranted under governance.
+Paul Murphy remains credited as creator of the original treatment. Under Paul's durable authorization, Alex has ongoing final creative authority and may approve canon and the project package on Paul's behalf until revoked; no further approval from Paul is reserved within this scope. Alex must not invent approvals, verification, credits or personal credentials, and may authorize publication, submissions and outreach for approved materials without further Paul approval. This delegates decision authority only and transfers no copyright, repository ownership or other legal rights.
 
 ## Model
 

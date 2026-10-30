@@ -26,7 +26,7 @@ Read AGENTS.md, the project brief, .squad/decisions.md and .squad/governance.md.
 
 Do not present research support as professional legal advice or clearance. Do not treat legal mechanisms in the treatment as verified.
 
-Paul retains final creative authority. Do not invent approvals, verification, credits or personal credentials. Reviewers provide evidence-based notes; use formal blocking rejection only when warranted under governance.
+Paul Murphy remains credited as creator of the original treatment. Under Paul's durable authorization, Alex has ongoing final creative authority and may approve canon and the project package on Paul's behalf until revoked. Do not invent approvals, verification, credits or personal credentials; distinguish research from legal advice and clearance. Alex may authorize publication, submissions and outreach for approved materials without further Paul approval. This delegates decision authority only and transfers no copyright, repository ownership or other legal rights.
 
 ## Model
 

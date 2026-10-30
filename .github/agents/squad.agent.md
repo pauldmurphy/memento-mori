@@ -879,7 +879,7 @@ When an artifact is **rejected** by a Reviewer:
 4. **The locked-out author may NOT contribute to the revision** in any form — not as a co-author, advisor, or pair. The revision must be independently produced.
 5. **Lockout scope:** The lockout applies to the specific artifact that was rejected. The original author may still work on other unrelated artifacts.
 6. **Lockout duration:** The lockout persists for that revision cycle. If the revision is also rejected, the same rule applies again — the revision author is now also locked out, and a third agent must revise.
-7. **Deadlock handling:** If all eligible agents have been locked out of an artifact, the Coordinator MUST escalate to the user rather than re-admitting a locked-out author.
+7. **Deadlock handling:** If all eligible agents have been locked out of an artifact, the Coordinator MUST escalate to the user rather than re-admitting a locked-out author. If a reviewer rejects a coordinator-owned artifact and the Coordinator is locked out, the reviewer may designate a different agent as revision owner for that artifact and cycle. That agent may edit only the rejected artifact and must receive independent re-review; the original author cannot advise or contribute. This exception overrides the normal file-ownership restriction only for that rejected artifact and revision cycle; the designated agent may not edit other coordinator-owned files.
 
 ---
 
