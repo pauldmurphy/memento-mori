@@ -1,6 +1,26 @@
 {
-  "universe_usage_history": [],
-  "assignment_cast_snapshots": {},
-  "transaction_id": "e6bb166c-eb58-49ef-8f0d-cd4e29cd8c10",
-  "registry_revision": 1
+  "universe_usage_history": [
+    {
+      "universe": "Canyon House Pictures",
+      "used_at": "2026-10-30T04:10:14.205Z"
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "canyon-house-pictures-r2-2026-10-30": {
+      "universe": "Canyon House Pictures",
+      "agents": [
+        "alex",
+        "lauren",
+        "maya",
+        "charlie",
+        "julian",
+        "nina",
+        "morgan",
+        "jamie"
+      ],
+      "created_at": "2026-10-30T04:10:14.205Z"
+    }
+  },
+  "transaction_id": "bf759955-9a6e-475f-ac99-e90ba8b8ccf9",
+  "registry_revision": 2
 }
