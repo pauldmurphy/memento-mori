@@ -1,20 +1,38 @@
 # Episode 04 — The Leak
 
-Status: provisional architecture test card; corrective revision by Alex; not an episode draft or approved canon. Owner: Alex.
+Owner: Maya Brooks (`maya`). Expanded synopsis and internal beat sheet, **MM-DP-1**, 2026-10-30. **Status: proposed development expansion for independent review and Alex's approval**, based on the approved provisional architecture. Original treatment by Paul Murphy. The [reconciliation](../canon/package-reconciliation.md) identifies new fictional choices, source departures and approval provenance. No screenplay or researched historical/legal finding is created by this prose.
 
-- Canon version: provisional architecture-test-v2; session-authorized working direction, not approved canon.
-- Protagonist objective and stakes: Daniel wants to stop a second disclosure; Callie wants to identify who moved the material and keep the contest viable. Stakes are custody, exposure and a first fictional/provisional threat against the Caldwell household.
-- Contemporary timeline conflict and choices: A copied packet is referenced by an anonymous threat or third party. Daniel demands a halt; Sarah rejects a total blackout and requests redacted review. Callie honors the pause and creates a proposed neutral-custody record. **Invented story beat, not procedure:** a separate review gate closes when Callie records custody; a family-requested pause, not a court-ordered or statutory hold, removes the option to publish an unreviewed packet in this design. A contest filing does not trigger either action. **Immediate Callie cost:** the firm removes her from the lead on the estate matter and withholds the next referral while she honors the Caldwell pause.
-- Historical timeline conflict and choices: **Provisional design order, not fact:** a document may have moved before danger, but the order and cause are unknown. Marian sees the immediate household risk first and chooses to send the twins temporarily to a trusted community household while keeping her own work and papers in Birmingham. Caleb wants to stay and continue the legal pressure; Eli urges controlled silence; Leon urges a move and accepts that his professional access cannot protect Marian physically. Marian’s choice conflicts with Caleb and with both lawyers. Surviving evidence may show a family separation and a moved document; character belief about who caused the threat remains contested.
-- Why these timelines meet in this episode: Both lines ask who decides what safety costs, but Daniel and Sarah can choose differently from Marian’s household. Historical danger is not automatic authority over the present.
-- Character turns and consequences: Daniel and Sarah split over disclosure. Marian makes the immediate-danger decision rather than receiving one. Leon chooses a protective action with professional consequences; Eli’s proposed silence loses authority.
-- Clues, audience belief and reliability: Character belief: Leon believes the moved document increased exposure; Eli believes stopping will abandon leverage. Surviving record/evidence: a packet trail and threat reference exist in the fictional design. Unknown: sender, recipient, wording, legal consequence and whether the document caused danger. HIST-1965-005 supports documented Birmingham terror and investigative limits only, not this threat or case.
-- Major beats:
-  - Daniel discovers the leak reference and demands retrieval.
-  - Sarah rejects a redaction that removes Caleb’s agency.
-  - Leon admits document movement without naming the recipient.
-  - Marian separates the twins temporarily and preserves her own community role.
-  - Callie preserves a copy but stops publication.
-- Ending and next-episode pressure: Daniel withdraws from the planned dinner; Sarah tells Callie he cannot speak for her. **Changed option:** the estate can proceed only through divided Caldwell instructions, and Callie has lost her lead role and referral leverage.
-- Research dependencies: Julian: period threat environments and responsible composite practice; HIST-1965-005/008 are context only. Morgan: historical confidentiality, evidence custody, intimidation/obstruction and present privacy/publication exposure. Current rules are not 1965 law. Unresolved: recipient, forum and survivor protections.
-- Proposed changes requiring Paul: Propose Marian’s immediate-danger choice, the first non-Eli present reversal and Callie’s visible professional cost. No historical causation is locked.
+## Synopsis
+
+Daniel receives a message repeating private packet language and treating the Caldwells as an embarrassment Eli concealed. It is a contemporary intrusion, not a returned-killers plot. He calls for a halt. Sarah wants the breach contained without losing the first serious opportunity to see the family's record. Ben insists his crop omitted the sensitive part until she identifies the family through details he left in.
+
+Ben lists recipients and requests no further circulation. He cannot establish that an email no longer exists. Callie can preserve a log and relocate the agreed packet; she cannot reverse transmission by writing a better rule. She honors Daniel's requested pause, records access and loses her firm's patience. A proposed reassuring public account would make the material manageable for the firm. She refuses to endorse it before the Caldwells can assess the breach. The firm removes her from an unrelated lead assignment and keeps the referral away.
+
+The historical household receives a threat. Its sender and relation to any paper remain unknown. Caleb hears retreat as the beginning of losing his place altogether. Marian sends the twins temporarily to a trusted woman's household while she keeps paid work and secures the reading-room materials. That choice costs her access to the children and imposes work on someone whose help she has been treating as limitless. The woman demands shared control over the fund rather than another promise of gratitude.
+
+Leon arranges movement but cannot turn his professional access into physical safety for Marian. Eli wants the threat absorbed into a controlled strategy. Marian withholds the children's location from his file. Her action conflicts with Caleb and the lawyers while creating new dependence on the community she also wants to lead.
+
+Daniel withdraws from the planned dinner. Sarah remains willing to attend and refuses his attempt to make privacy a joint instruction. Callie discovers that honoring a pause does not make her a trusted custodian. The estate dispute continues separately; no filing orders a hold or grants a record right.
+
+## Internal beats
+
+1. An outsider quotes the private crop to Daniel; a specific present breach replaces vague menace.
+2. Daniel requests a halt; Sarah insists that his limit cannot erase her access channel.
+3. Sarah identifies the indirect identifiers Ben thought he had removed.
+4. Ben admits circulation, lists recipients and seeks voluntary retrieval without promising erasure.
+5. Callie moves the selected packet to agreed neutral review and logs access.
+6. The firm requests a premature containment account; Callie refuses and loses her lead assignment.
+7. In 1965 a threat reaches the household without an omniscient sender reveal.
+8. Marian separates the twins temporarily and retains work/papers in Birmingham.
+9. The trusted caregiver makes her labor and reading-room authority conditions of continued help.
+10. Caleb and Marian clash over what retreat costs; Leon cannot provide bodily protection by professional standing.
+11. Daniel declines the dinner; Sarah keeps her own willingness intact.
+12. End: the Caldwell instructions divide, while both household safety plans impose unequal costs.
+
+## Turn and continuity
+
+**Changed option:** Episode 5 must choose what can honestly be said with a breached record, while the historical household still has an ordinary future to pursue.
+
+**Chronology:** Present midOctober2025; historical October1965. No present armed threat or historical perpetrator identification is invented by the message.
+
+**Evidence rule:** Historical private action is authored fiction, not information automatically available to Callie. Character belief, artifact-supported sequence and unknown causation remain distinct. The single Episode 2 contest grants no automatic disclosure or custody; money, access, copying and publication require separate actions. The [custody register](../canon/custody-consent.csv) and [reveal matrix](../canon/reveals.csv) track them.
