@@ -1,21 +1,40 @@
 # Episode 09 — A Defective Promise
 
-Status: provisional architecture test card; corrective revision by Alex; not an episode draft or approved canon. Owner: Alex.
+Owner: Maya Brooks (`maya`). Expanded synopsis and internal beat sheet, **MM-DP-1**, 2026-10-30. **Status: proposed development expansion for independent review and Alex's approval**, based on the approved provisional architecture. Original treatment by Paul Murphy. The [reconciliation](../canon/package-reconciliation.md) identifies new fictional choices, source departures and approval provenance. No screenplay or researched historical/legal finding is created by this prose.
 
-- Canon version: provisional architecture-test-v2; session-authorized working direction, not approved canon.
-- Protagonist objective and stakes: Callie wants to produce a single framework that will make the family’s decisions legible and preserve her claim to have solved Eli’s estate. Daniel wants privacy and no Eli-authored moral terms. Sarah wants to judge Eli without being made to speak for Daniel. The stakes are whether Callie can relinquish authorship of a clean family resolution.
-- Contemporary timeline conflict and choices: A draft/unsigned/defective contingency paper in Leon’s custody surfaces, but cannot solve probate. Callie has drafted one integrated family framework alongside separate estate and record proposals. Daniel rejects the paper and withholds his own participation and name from any broad release; Sarah refuses to let her position stand in for Daniel’s. When Callie sees that her framework would flatten Daniel’s refusal and Daniel’s own private account into a shared family position, she withdraws it at the table and identifies it as her proposal, not the family’s agreement. She gives up the leverage and professional satisfaction of presenting a unified solution, and commits to let the siblings’ separate choices remain separate even if that leaves the record incomplete. She does not state or imply any legal consequence for the paper. **Invented story beat, not procedure:** this is a character’s withdrawal of her own proposed framework, not a legal deadline, filing effect, or required estate sequence; the single post-admission contest remains separate from discovery, custody, and disclosure.
-- Historical timeline conflict and choices: **Provisional sequence, not fact.** Marian chooses what lawyers retain, what the children hear and what support enters the household. Eli treats the future as a document problem; Leon keeps a competing record but cannot make it binding. Character belief: Eli believes a paper can repair the bargain; Marian believes any paper must leave her refusal intact. Surviving evidence: the defective paper and later records may show intent, not enforceability. Unknown: validity, custody, succession effect and the filing/leak/threat/killing chain.
-- Why these timelines meet in this episode: The defective paper mirrors Eli’s wish to author peace; the living parties refuse to let it bind them. Historical survival choices explain why control matters without dictating the settlement.
-- Character turns and consequences: Callie reverses from synthesizer to witness by withdrawing her own unified framework and accepting that her work cannot make the siblings’ decisions one. She loses the clean professional victory she wanted and commits not to speak for them in the finale. Daniel’s refusal remains his own; Sarah does not sign a shared account; Leon cannot turn custody into authority.
-- Clues, audience belief and reliability: The instrument is a proposed device only, not a valid will or surprise solution. HIST-1965-002/004 provide context, not the fictional case or remedy.
-- Major beats:
-  - Leon produces the paper and identifies its defect.
-  - Daniel rejects restitution/forgiveness language and the record portion.
-  - Sarah declines to let any shared paper define her position or Daniel’s.
-  - Callie withdraws her integrated framework and owns it as her proposal, not a family agreement.
-  - Ruth refuses to be Eli’s moral shield.
-  - Callie withdraws her unified framework; the siblings state separate positions, not a settlement.
-- Ending and next-episode pressure: Daniel leaves his written refusal; Sarah makes no commitment through a shared framework; Callie sets aside her proposal. **Changed option:** Episode 10 cannot resolve the family through a unified agreement authored by Callie; any estate terms, personal accounts, and record choices must remain distinct and individually chosen, with no implied legal effect.
-- Research dependencies: Morgan: instrument validity, custody, succession contracts, settlement, releases, privacy and county procedure. Julian: composite historical record and unknown causal chain. Lauren/Nina: concrete Callie cost and viable refusal. No legal mechanism is locked.
-- Proposed story changes (still provisional): Keep the defective/nonbinding paper as a character pressure device only; make Callie’s withdrawal of her own integrated framework the reversal that forces the finale to honor separate choices. No alternate will solves the season.
+## Synopsis
+
+Leon produces Eli's unsigned contingency plan. It imagines a family fund and a coordinated account that would make every separate burden look like one inheritance. Its missing execution is known; no one discovers a valid alternate will. The paper's power is emotional, and Callie finds that she has independently drafted a better version of the same temptation.
+
+Her integrated framework gives everyone something. It also makes Daniel's note an exhibit, Sarah's finances a family position, Ruth's housing a bargaining instrument and Callie the person who can announce that they are finished. Daniel refuses the broad release and Eli's letter. Sarah refuses to let her own willingness stand for him. Neither says the other must make the same choice.
+
+The recognition test breaks the proposed public Caldwell exhibit. Removing Daniel's name does not remove a twin relationship, parents' names, portrait, place and distinctive chronology. The story cannot retain all that detail and honestly promise his anonymity. Callie could still force a choice at Daniel's expense. Instead she withdraws her own integrated framework at the table, identifies it as her proposal and loses the clean professional achievement she had assigned herself.
+
+Ruth stops giving Eli's intentions as the common ground. She wants to remain in the house and will accept reduced liquidity to do it. Ben and Leah must choose whether care includes postponing their proceeds. Leon puts the remaining packet on the Caldwell-selected table without requiring the interpretation it once served.
+
+In the historical aftermath Marian prepares what the children can inherit without drafting their future consent. She keeps records, names and contradictory accounts, refuses a silence document and declines the lawyers' public caption. The work has a cost: the fund must share authority and her family packet cannot guarantee a safe life. It can leave a choice.
+
+The episode ends with a desirable solution dismantled. A money agreement remains possible. A full public family account does not. Sarah begins something smaller she can speak for; Daniel's refusal stays in writing. Callie cannot get both a coherent record and authority over everybody in it.
+
+## Internal beats
+
+1. Leon identifies the contingency plan as unsigned and nonresolving.
+2. The emotional offer is attractive after the box; nobody treats it as operative law.
+3. Callie's independently written integrated framework reveals a repeated controlling habit.
+4. Daniel refuses broad release and personal letter while preserving his private authorship.
+5. Sarah refuses any clause making her the Caldwell representative.
+6. Indirect-identification review shows the full public exhibit cannot protect Daniel's refusal.
+7. Callie withdraws her own framework and marks its authorship honestly.
+8. Ruth states her housing preference without using Eli's good intentions as a shield.
+9. Ben and Leah confront delayed liquidity as an actual living choice.
+10. Leon relinquishes sole custody of the last packet.
+11. Historical Marian prepares a family record without a promise that the children will agree.
+12. End: separate estate and personal-record outcomes replace the unified solution.
+
+## Turn and continuity
+
+**Changed option:** The finale must enact divided decisions, not locate a new document that reinstates Callie's plan.
+
+**Chronology:** Present earlyNovember2025; historical late1965. The unsigned plan replaces the source's resolving alternative will, an explicit development departure.
+
+**Evidence rule:** Historical private action is authored fiction, not information automatically available to Callie. Character belief, artifact-supported sequence and unknown causation remain distinct. The single Episode 2 contest grants no automatic disclosure or custody; money, access, copying and publication require separate actions. The [custody register](../canon/custody-consent.csv) and [reveal matrix](../canon/reveals.csv) track them.

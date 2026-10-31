@@ -1,20 +1,38 @@
 # Episode 05 — The Cost of Going Public
 
-Status: provisional architecture test card; corrective revision by Alex; not an episode draft or approved canon. Owner: Alex.
+Owner: Maya Brooks (`maya`). Expanded synopsis and internal beat sheet, **MM-DP-1**, 2026-10-30. **Status: proposed development expansion for independent review and Alex's approval**, based on the approved provisional architecture. Original treatment by Paul Murphy. The [reconciliation](../canon/package-reconciliation.md) identifies new fictional choices, source departures and approval provenance. No screenplay or researched historical/legal finding is created by this prose.
 
-- Canon version: provisional architecture-test-v2; session-authorized working direction, not approved canon.
-- Protagonist objective and stakes: Callie wants to preserve the record without causing a new exposure. Marian wants to keep her children’s future and community work under her control; Caleb wants the legal action to continue. Stakes are safety, the first irreversible historical loss and Callie’s now-visible professional cost.
-- Contemporary timeline conflict and choices: The Episode 02 post-admission contest filing is already in place under the provisional story hypothesis; Episode 05 contains no second or replacement filing. No probate response deadline or specific third-party/contractual deadline is established or selected. Daniel refuses public attribution; Sarah permits private review. Callie considers a narrow redaction and review plan, but the earlier contest filing does not itself preserve or limit publication rights. **Invented story beat, not procedure:** a separate review/settlement choice changes whether the packet is made available in this design. No statutory deadline or legal effect is implied. She keeps the professional penalty and cannot recover the lost referral.
-- Historical timeline conflict and choices: **Provisional design hypothesis, not fact:** Caleb dies after a period in which a proposed tactic, document movement and household danger have been placed in sequence for dramatic testing. The order is disputed by the characters and is not proof that the tactic or leak caused his death. Character belief: Eli thinks his tactic exposed Caleb; Leon thinks unequal access and the surrounding terror made the risks different; Marian believes the lawyers’ story may be an attempt to control blame. Surviving record/evidence: a death, threatened household and later payment trail may exist in the fictional record. Unknown: exact sequence, perpetrators, motive, filing status and causal link. Marian refuses to let Eli/Leon decide whether the children move, hide or hear the truth, and chooses to keep the reading-fund papers outside their custody.
-- Why these timelines meet in this episode: The consequences of Callie’s earlier contest choice are set beside Marian’s refusal to accept the lawyers’ account of protection. The shared question is who decides what safety costs, not whether the present repeats 1965.
-- Character turns and consequences: Callie accepts that a careful legal choice can still harm access and leaves the firm’s preferred career path. Marian becomes the historical decision-maker after Caleb’s death; Leon’s and Eli’s options diverge without a claim of equal blame.
-- Clues, audience belief and reliability: Caleb’s death is source-backed fiction, not documented history. HIST-1965-003/005 contextualize violence and investigative limits only; they do not prove this death or identify perpetrators.
-- Major beats:
-  - Callie reaches an invented review beat and chooses a narrow redaction/review plan; no new filing or statutory response deadline is implied.
-  - Daniel refuses public attribution; Sarah agrees to private review.
-  - Caleb and Marian argue over retreat, the reading fund and erasure.
-  - Caleb is killed in a grounded, non-spectacular sequence; perpetrators remain unknown, and the sequence supplies no proof that the proposed tactic or leak caused the death.
-  - Marian retains the family papers and refuses the lawyers’ preferred account.
-- Ending and next-episode pressure: The surviving family demands immediate silence, but Marian refuses to grant lawyers ownership of the story. **Changed option:** the contest filed in Episode 02 remains separate from the negotiated disclosure path; it neither creates nor limits that path. No causal explanation is available to settle the dispute.
-- Research dependencies: Julian: responsible 1963/1964/1965 frame for terror, family survival and community life; no real victim or analog, and no item-level archival review is claimed. Morgan: proposed filing, period exposure and present probate consequences; for the Alabama 2025 hypothesis, §§ 43-8-210/-215 govern the contest reference, not a unified clock. Nina: ensure death centers Caleb and Marian rather than Eli. All mechanism remains unresolved.
-- Proposed changes requiring Paul: Propose the historical death as a midpoint consequence without asserting filing causation, and Marian’s refusal as the surviving moral action.
+## Synopsis
+
+Callie can make an impressive accusation from the surviving records. She can also make a reassuring defense. Both would make Eli the center and overstate what she knows. A former associate wants a career-saving statement; Ben wants the scandal named; Sarah wants to know why Eli's intention must again lead every paragraph.
+
+Callie makes three columns: beliefs, supported sequence and unknowns. She applies them to her own preferred theory. The draft and copy log do not prove a filing caused Caleb's death. The threat does not identify its sender. Transfers do not establish a price freely accepted for silence. She chooses a narrow private review rather than a clean public account. Daniel maintains his no-public-attribution position; Sarah agrees to selected comparison. Callie's lost assignment is not restored. No second contest or legal deadline offers a new route.
+
+In 1965, the Caldwells have a practical plan that is not Eli's. Caleb takes temporary work away from the depot and readies a reading-room space. He still wants a public correction, but the case need not consume the twins' future. Marian wants a usable ledger, a smaller opening and reliable childcare. They disagree about retreat without giving up an evening's ordinary pleasure. Caleb leaves to collect tools and information from a coworker.
+
+He is killed in racist violence. The treatment does not award the audience the perpetrators' perspective or a causal handoff from legal paper to murder. The loss interrupts Caleb's work, marriage, room repairs and plans, and is first carried by Marian's household. Eli offers his fear that the tactic caused it as if naming his responsibility can restore order. Leon cannot certify it. Marian refuses their account as the definitive meaning of her husband's death.
+
+She keeps the work and family papers outside the firm. She must now decide where the children sleep, what income remains and whether the reading room can survive its promised resources. Her choices continue the historical engine instead of closing it as Eli's origin story. In the present, Callie's careful answer costs her the professional route she wanted and gives her no complete story in exchange.
+
+## Internal beats
+
+1. A request for an exonerating account makes silence and accusation equally tempting shortcuts.
+2. Sarah challenges the Eli-first frame before Callie drafts a public verdict.
+3. Callie separates belief, documentary sequence and unknown cause on a working table.
+4. Daniel refuses attribution; Sarah permits selected private comparison.
+5. Callie declines both sweeping accusation and premature defense; her firm penalty continues.
+6. Caleb chooses temporary work and a tool collection plan for a life outside the depot.
+7. Marian scales the reading room to actual resources and challenges his residual appetite for public vindication.
+8. An ordinary shared household sequence establishes what the murder interrupts.
+9. Caleb fails to return; racist killing is encountered without perpetrator spectacle.
+10. Eli and Leon cannot establish the paper-to-killing link.
+11. Marian retains family/work papers and decides the next household action.
+12. End: irreversible loss does not settle blame, and the surviving historical protagonist keeps a live objective.
+
+## Turn and continuity
+
+**Changed option:** Episode 6 asks who may attach conditions to survival help. The estate contest remains the single Episode 2 action; money and publication are still separate.
+
+**Chronology:** Present midOctober2025; historical lateOctober1965, twins approximately ten weeks old at death. Death is fictional canon proposed from source; exact perpetrators and mechanism remain unknown.
+
+**Evidence rule:** Historical private action is authored fiction, not information automatically available to Callie. Character belief, artifact-supported sequence and unknown causation remain distinct. The single Episode 2 contest grants no automatic disclosure or custody; money, access, copying and publication require separate actions. The [custody register](../canon/custody-consent.csv) and [reveal matrix](../canon/reveals.csv) track them.

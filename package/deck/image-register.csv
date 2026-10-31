@@ -1,0 +1,4 @@
+asset_id,slides,type,source,creator,rights_status,intended_use,notes
+DECK-TEXT-001,1-16,Editable HTML text,Approved package copy and fictional MM-DP-1,Jamie Vale deck adaptation of project materials,Project-created text; no external image license claimed,Pitch and reader deck,Original treatment credited to Paul Murphy; final deck creative approval tracked separately
+DECK-COLOR-001,1-16,Flat background colors,Original deck styling,Jamie Vale,Project-created styling; no external visual asset,Backgrounds and typographic contrast,No photographs illustrations stock artwork archival scans logos or generated images used
+DECK-FONT-001,1-16,System font fallback stack,Local operating system and browser,Respective font owners,Fonts are referenced locally and not embedded or redistributed,Editable presentation text,Georgia then Times New Roman then serif; Segoe UI then Arial then sans-serif; rendering may differ across systems

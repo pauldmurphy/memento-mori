@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "a85c2116-665b-43ee-a76f-7ff0e677572f",
+    "class": "DECISION",
+    "loadGuidance": "ALWAYS",
+    "title": "Autonomous completion of MEMENTO MORI development",
+    "path": ".squad\\decisions\\inbox\\paul-murphy-via-squad-autonomous-completion-of-memento-mori-development-a85c2116.md",
+    "status": "active",
+    "createdAt": "2026-10-30T08:46:53.084Z",
+    "updatedAt": "2026-10-30T08:46:53.084Z"
+  }
+]

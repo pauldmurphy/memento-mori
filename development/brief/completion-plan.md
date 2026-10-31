@@ -1,0 +1,54 @@
+# MEMENTO MORI — Development package completion plan
+
+Owner: Alex Bennett (`alex`), Canyon House Pictures. Commissioned 2026-10-30. Requested by Paul Murphy: “Squad, You have complete autonomy. Finish the project.”
+
+## Scope and authority
+
+Finish the development package defined in [the checklist](../../package/README.md) and [planning blueprint](../../docs/squad/MEMENTO-MORI-squad-blueprint.md): one polished pilot, a complete ten-episode season story and the materials needed to read and pitch that show. This does not commission ten production scripts, physical production, a budget quotation, buyer approaches or outside publication. Paul Murphy remains creator of the original treatment; no personal biography, attachments, buyer interest or completed consultation may be invented.
+
+Alex exercises Paul's existing final creative delegation. Lauren's independent substantial-story review and required repository checks remain applicable. The approved [season break](../season/season-break.md) is the provisional ten-episode architecture, not an approved screenplay or a finding of historical fact. Research, legal verification and external cultural consultation are advisory; they do not prevent deliberate fictional choices. Paul canceled paid cultural consultation. The approved architecture gate permits pilot development now; the pilot-outline gate must be completed before any screenplay drafting.
+
+## Deliverables and accountable owners
+
+| Deliverable | Accountable owner | Output | Acceptance evidence |
+|---|---|---|---|
+| Integrated brief and commissioning decisions | Alex | This plan; [creative brief](creative-brief.md); creative approval record | Explicit outline, pilot and final-package decisions identify reviewed versions and limits. |
+| Pilot beat sheet and scene outline | Charlie | `development/pilot/beat-sheet.md`, `development/pilot/outline.md` | One complete Episode 1 story; active historical scenes; causal scene turns; ending launches Episode 2; Lauren review followed by Alex approval before screenplay. |
+| Pilot screenplay and synopsis | Charlie | `development/pilot/memento-mori-pilot.fountain`, `development/pilot/synopsis.md` | Complete readable dramatic pilot in UTF-8 Fountain; outline-consistent, revised from actual review; Lauren independent coverage and Alex approval. No FDX. |
+| Reader PDF | Charlie, with bounded export assistance if required | `package/pilot/memento-mori-pilot.pdf`; matching approved Fountain copy or explicit link | Actual Fountain renderer recorded; title page, action, dialogue and pagination visually checked; exported source fingerprint recorded. A text-only PDF does not establish screenplay layout. |
+| Story bible, full season treatment and episode material | Maya | `package/development-bible.md`, `package/season-treatment.md`; `development/season/episode-01.md` through `episode-10.md` expanded as synopses and internal beats | All ten episodes have objectives, active conflict in both timelines, reversals and endings; complete finale; Episode 1 agrees with pilot. Lauren independently reviews; Alex approves final story choices. |
+| Continuity and reveal records | Maya | Existing canon CSVs; `development/canon/package-reconciliation.md` | One identifiable working canon; ages and relative sequence internally possible; every material clue has setup/payoff, knowledge change and consequence; approved inventions distinguished from preserved source and unknown facts. |
+| Pitch, oral versions and creator materials | Lauren | `package/one-page-pitch.md`, `package/oral-pitches.md`, `package/creator-statement-and-bio.md` | Same show as pilot/bible; short and long speakable pitches with stated approximate timing; creator credit intact. Creator statement describes the treatment and development, with no fabricated first-person motive or personal history. |
+| Positioning and preliminary production overview | Lauren | `package/positioning-and-production.md` | Audience and comparator analysis labeled editorial hypotheses; concrete cost drivers and scope assumptions; no precise budget, sales projections, invented buyer interest or attachments. |
+| Deck and image register | Jamie | `package/deck/memento-mori-deck.html`, `package/deck/image-register.csv` | Approximately 12–16 readable slides with editable source, based on approved story/copy. Prefer original typography and abstract design; external images require accurate provenance/rights status. No claim of clearance. |
+| Package index, version and issue register | Lauren | `package/README.md`, `package/versions.md`, `package/unresolved-issues.md`; existing reviews/notes records | Every promised artifact linked; deliverable status backed by actual files and review; existing historical/legal limits disclosed once clearly; delegated Alex approval replaces stale Paul-sign-off wording. |
+
+These filenames are commissions; their presence and approval must be checked before the checklist is marked complete. Prose documents remain Markdown. Scripted scenes, dialogue samples and screenplay revisions must be Fountain, including any samples embedded in the delivery workflow.
+
+## Charlie's immediate commission: pilot development only
+
+Use the approved Episode 1 turn, **The Ordinary Wreck**, and preserved treatment. Deliver the beat sheet and scene outline named above; stop before screenplay. Callie's present objective is to understand whether Eli's bequests are another attempt to direct her life. Give her consequential behavior, family wit and a mounting false explanation about Daniel and Sarah. Ruth's concealment of the fake award and prior knowledge must register as actions. Leon is a person with divided loyalties, not a machine for reading instructions. The historical line must let Caleb and Marian pursue and disagree about their own work, future and exposure; Marian narrows Eli's preferred tactic before it becomes the lawyers' story alone.
+
+End on Callie's chosen next action and the Caldwell names, conditions or withheld records that make Episode 2 necessary. No contest filing occurs in Episode 1. A request for voluntary access does not establish legal authority; Eli's fictional instructions do not create statutory effects. Stage grief through choices, not wall-to-wall exposition. Do not spend the pilot revealing the full historical case, killing, payments or ending.
+
+Label invented outline choices explicitly in a short design note rather than burdening every scene with caveats. Name the architecture version used, identify any essential continuity choice for Alex, and flag departures from Episode 1. Do not make unsupported historical or legal claims. No whole-series rewrite, sample scenes or screenplay in this commission. Handoff: Maya's focused continuity notes, Lauren's independent review, then Alex's explicit approval.
+
+## Maya's parallel commission: season and continuity package
+
+Build the bible, complete ten-episode treatment and expanded episode synopses/beats from the approved architecture. Preserve the central thesis, three engines, unequal Eli/Leon responsibility, independent Caldwell choices and finale's refusal of Eli's binding posthumous solution. Give episodes different dramatic experiences, not ten repetitive document discoveries. The complete season must show what Caleb and Marian want before violence, what Daniel and Sarah can each refuse, and what Callie actually sacrifices.
+
+Propose a concise, internally coherent fictional chronology/age matrix and item-level custody/consent design sufficient for writing. An explicit fictional choice can fix a story year, age, name or occupation without claiming it came from research. Preserve original source rows, add labeled proposed-development rows, and request Alex's creative decision through the coordinator. Do not leave essential screen action dependent on impossible ages or unspecified elapsed time. Source identity and development identity remain distinguishable, especially Marian's invented name and biography. Preserve uncertain historical causation rather than using sequential scenes to certify a leak caused the killing. Reconcile Episode 1 after the reviewed outline/pilot are available. No screenplay, legal-clearance opinion or invented factual citations.
+
+## Lauren's package assembly commission
+
+After the outline exists, independently assess whether it earns the pilot and launches this particular ten-episode show. Distinguish advisory development notes from formal blocking findings; a formal rejection names the failed requirement and minimum remedy and triggers the configured reassignment protocol. Later review the complete pilot and season material. Assemble the pitch, oral versions, grounded creator copy, positioning/production overview and delivery index only from current story decisions. Alex checks Lauren-authored copy for creative consistency; Lauren cannot be sole reviewer of her own package copy. No fictitious human endorsements or biography; no outside outreach.
+
+## Ordered gates and completion evidence
+
+1. **Architecture:** Met. Lauren's independent approval and Alex's 2026-10-30 approval are recorded in the season break and durable decisions. Its deliberate provisional limits survive.
+2. **Outline:** Charlie produces outline/beat sheet → Maya checks bounded continuity → Lauren independently reviews → Alex records explicit version-specific creative approval. No screenplay until this gate is met.
+3. **Pilot:** Charlie drafts and revises the complete Fountain master → Lauren independently covers it → Alex approves the reviewed version. Any formal reviewer rejection reassigns that artifact; ordinary notes do not fabricate a rejection.
+4. **Package:** Maya's season/bible/canon and Lauren's copy converge with the approved pilot; Jamie builds deck from that stable story. Lauren reviews substantial story submissions; Alex reviews Lauren-authored package copy and records final creative approval. Internal dramaturgical advice may be requested for a concrete issue; external research or consultation is not an extra approval gate.
+5. **Delivery:** All index links resolve; ten episodes counted; source manifest bytes/SHA-256 verified unchanged; no FDX; UTF-8 Fountain source and visual PDF check agree; deck opens/readable; claims/inventions and unresolved rights/professional matters accurately disclosed; `node scripts/validate-development.mjs` passes. Native Squad checks run if configuration changes. Reviewable PR includes actual review/approval/check evidence before any merge.
+
+Completion means the actual artifacts and these checks exist, not that filenames have been listed or a pitch can be outlined. Record material limitations honestly. A development package can be complete with disclosed professional-clearance, buyer/financing, precise-budget and personal-biography limits; it cannot claim production, sales, clearance or consultation that did not happen.

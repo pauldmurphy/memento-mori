@@ -1,20 +1,38 @@
 # Episode 03 — The First Move
 
-Status: provisional architecture test card; corrective revision by Alex; not an episode draft or approved canon. Owner: Alex.
+Owner: Maya Brooks (`maya`). Expanded synopsis and internal beat sheet, **MM-DP-1**, 2026-10-30. **Status: proposed development expansion for independent review and Alex's approval**, based on the approved provisional architecture. Original treatment by Paul Murphy. The [reconciliation](../canon/package-reconciliation.md) identifies new fictional choices, source departures and approval provenance. No screenplay or researched historical/legal finding is created by this prose.
 
-- Canon version: provisional architecture-test-v2; session-authorized working direction, not approved canon.
-- Protagonist objective and stakes: Callie wants to learn what the storage records establish before the proposed custody/response gate closes. Sarah wants originals concerning her family without surrendering publication control. Stakes are custody and whether Callie can keep Daniel from being bypassed.
-- Contemporary timeline conflict and choices: The storage unit contains case materials, a fake charity, ledgers, checks and decades of payments. Sarah stops Callie’s unilateral scan. Daniel demands an independent custodian or duplicates. Callie chooses consent over speed, losing immediate access. **Callie’s first concrete cost:** she withdraws from a lucrative firm referral to honor Sarah’s limit, losing the referral fee and putting her standing with the firm at risk. **Invented story beat, not procedure:** a separate review tests whether unilateral copying ends here; no contest filing creates a custody hold or disclosure order.
-- Historical timeline conflict and choices: **Provisional sequence, not fact.** Caleb wants a remedy that preserves work and family standing. Marian’s proposed goal is to use any legal outcome to finance her reading fund and keep a community role independent of the firm. She rejects public testimony without a fallback and orders that the draft record omit household identifiers, directly conflicting with Caleb’s wish for a forceful filing. Eli designs a filing/sealed-affidavit tactic; Leon identifies racial and institutional exposure and chooses to carry a copy through channels he can access but Marian cannot. Surviving evidence may show a draft and an authenticated copy; whether it was filed or leaked remains unknown.
-- Why these timelines meet in this episode: The storage unit turns Eli’s confession into contested documents. Present custody choices mirror, without equating, the historical question of who controls dangerous evidence.
-- Character turns and consequences: Sarah becomes an active custodian; Daniel’s refusal changes access; Callie pays for honoring consent; Marian changes the proposed tactic and protects a community purpose; Leon makes an unequal-access choice rather than merely following Eli. The receiving office visibly logs an extra duplicate, creating a custody trace Callie can later follow; that trace does not prove a leak, danger or causation.
-- Clues, audience belief and reliability: Character belief: Leon believes Eli’s tactic created avoidable exposure. Artifact-supported sequence: fictional ledgers may show entries or transfers, while a draft and copy may establish document movement only; authenticity, completeness, dates and terms remain uncertain. Unknown: whether a filing occurred, who received any copy, and whether either caused danger. HIST-1965-004 gives dated federal-transition context only; it cannot validate this fictional filing.
-- Major beats:
-  - Callie enters the storage unit under a proposed protocol.
-  - Sarah stops the scan; Daniel identifies the payment pattern.
-  - A draft filing and affidavit notation surface.
-  - Marian removes identifying details from the proposed tactic and redirects the household’s goal toward the reading fund.
-  - Leon’s access-based delivery leaves a logged duplicate in the receiving office; the trace makes document movement observable without proving who leaked it or what followed.
-- Ending and next-episode pressure: Sarah gives Callie a timed copy; Daniel threatens to leave any estate meeting if publication occurs without consent. **Changed option:** Callie has a verified duplicate but no right to publish it, and her lost referral makes delay personally expensive.
-- Research dependencies: Julian: choose among candidate years and research filing/public-testimony conditions; HIST-1965-001/002/004 only contextual, with national VRA milestones not proof of local implementation. Morgan: custodian, forum, sealing authority and disclosure path. Unresolved: leak recipient, county, exact duty and causal chain.
-- Proposed changes requiring Paul: Propose a consent-based storage protocol, Callie’s early professional cost and Marian/Caleb jointly narrowing the tactic. No historical causation is locked.
+## Synopsis
+
+At the storage unit Callie discovers that Eli's famous life occupies the same boxes as useless furniture and gifts he never sent. Her inventory grows quickly until school payments, repairs, checks and letters turn the Caldwell relationship from scandal into a long material history. She wants to reproduce it before anyone can slow the work. Sarah stops the scanner.
+
+Daniel requests an independent inventory and a Caldwell-selected review table. Callie initially treats the demand as an obstacle to truth. Honoring it costs the rapid assessment connected to a lucrative firm referral assignment. She does stop. The assignment goes elsewhere. Nobody rewards the sacrifice by increasing her access. Sarah selects a limited duplicate for comparison and keeps personal letters outside the packet.
+
+A historical statement draft and duplicate log survive among the papers. They establish that a version existed and moved; they do not prove filing, a broken court seal or delivery to a perpetrator. Young Leon elects to carry a copy to a professional contact. His route into the office differs from Eli's easy entrance and exceeds anything Marian could obtain simply by asking. The receiving office logs an extra duplicate. The camera does not turn the paper into a weapon by showing its next reader.
+
+Caleb wants wages recovered so he can buy and keep his own tools. Marian has promised part of their resources to the reading room. She wants that project separate from the case but is tempted to control its books because she does the difficult work. Their argument has the specificity of a household deciding who may promise a future dollar. They narrow the financial plan without agreeing on the public tactic.
+
+In 2025 Ben asks a former associate to help interpret the bizarre will. Callie has told him not to circulate the packet; he decides a crop is harmless. While she tries to recover lost work, he sends it. Episode 3 has turned copying into a live choice rather than a metaphor: one person stops, another takes the easy shortcut.
+
+## Internal beats
+
+1. Storage inventory begins with mundane clutter, not a new sensational clue in every box.
+2. Callie finds a continuing support pattern and mistakes availability for permission to scan.
+3. Sarah stops the scanner and keeps selected personal correspondence out.
+4. Daniel secures a neutral inventory and separates family copies from Mori working papers.
+5. Callie honors the limit and loses the referral-linked assignment; this is actual income opportunity.
+6. The draft statement and receiving log establish limited documentary movement.
+7. Leon delivers a duplicate using unequal, precarious professional access.
+8. Marian removes customer identifiers and protects the reading room's separate funds.
+9. Caleb's tool plan conflicts with her promised resources; both alter their budget.
+10. Sarah permits one selected duplicate for private comparison, not publication.
+11. Ben circulates a crop to a former associate despite Callie's warning.
+12. End: Callie has less access and less work; Ben has created a breach she cannot control.
+
+## Turn and continuity
+
+**Changed option:** A phrase from the private packet will reach Daniel from outside the agreed group, making custody an urgent conflict in Episode 4.
+
+**Chronology:** Present earlyOctober2025; historical earlyOctober1965. Source payment channels remain incomplete; a log is not a leak confession.
+
+**Evidence rule:** Historical private action is authored fiction, not information automatically available to Callie. Character belief, artifact-supported sequence and unknown causation remain distinct. The single Episode 2 contest grants no automatic disclosure or custody; money, access, copying and publication require separate actions. The [custody register](../canon/custody-consent.csv) and [reveal matrix](../canon/reveals.csv) track them.

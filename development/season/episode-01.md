@@ -1,20 +1,36 @@
 # Episode 01 — The Ordinary Wreck
 
-Status: provisional architecture test card; corrective revision by Alex; not an episode draft or approved canon. Owner: Alex.
+Owner: Maya Brooks (`maya`). Expanded synopsis and internal beat sheet, **MM-DP-1**, 2026-10-30. **Status: proposed development expansion for independent review and Alex's approval**, based on the approved provisional architecture. Original treatment by Paul Murphy. The [reconciliation](../canon/package-reconciliation.md) identifies new fictional choices, source departures and approval provenance. No screenplay or researched historical/legal finding is created by this prose.
 
-- Canon version: provisional architecture-test-v2; session-authorized working direction, not approved canon.
-- Protagonist objective and stakes: Callie Mori must determine whether Eli’s will is a genuine estate instrument or a final manipulation. Stakes are inheritance, professional credibility and control of the first account of Eli’s death; no admission date or contest deadline is set in this card.
-- Contemporary timeline conflict and choices: Eli dies; Ruth hides the fake award; the will assigns objects, trusts, a storage unit, a mandatory dinner and conditional Leon instructions, and names Daniel and Sarah Caldwell. Callie chooses investigation over mourning. **Provisional story hypothesis, not a locked fact or legal conclusion:** after the will is admitted to probate, Callie files a contest within the current-hypothesis 180-day window under Ala. Code §§ 43-8-210/215, but only if she has standing and a valid ground. This card does not fix an admission date, county, or legal ground. Here she investigates and prepares; she does not file yet. Her separate request for voluntary access does not imply custody or disclosure rights.
-- Historical timeline conflict and choices: **Provisional 1965 Birmingham design hypothesis, not fact.** Caleb wants a remedy that protects his work, marriage and newborn twins. His wife is **Marian Bell Caldwell** (provisional invented name; proposed biography and goal, not source-backed fact or real-person identification): a church-connected bookkeeper who wants to keep her paid work and build a neighborhood reading fund rather than have the lawyers make the family’s future depend on the case. Before any leak, Marian refuses Eli’s broad exposure tactic and demands a narrower record that protects her work and choice of exit. Caleb disagrees because he wants the filing to carry public force. The surviving record may show only that a draft plan existed; what was filed, if anything, and what caused later danger remain unknown.
-- Why these timelines meet in this episode: The will contains a proposed fictional condition for Leon’s instructions, pairing “what did Eli leave?” with “what did Caleb and Marian choose to risk?” Any condition is a story device, not a statutory consequence of contesting the will or an automatic disclosure order.
-- Character turns and consequences: Callie becomes the actor rather than the grieving daughter; Ruth loses control of the story; Leon becomes a conditional gatekeeper; Marian’s independent livelihood and refusal change the historical options before Eli’s preferred tactic can dominate.
-- Clues, audience belief and reliability: Source-backed fiction includes death, award, shiva, will and beneficiaries. Character belief: Callie suspects hidden paternity or an affair. Surviving record/evidence: the will and objects establish a relationship but not its meaning. Unknown: award provenance, whether the historical-line action was filed, the leak, causation and whether Caleb’s death relates to any legal act. HIST-1965-007 contextualizes unequal Black professional access only; it does not prove this fictional firm or family.
-- Major beats:
-  - Mourners offer incompatible versions of Eli.
-  - Leon reads the will; the Caldwell names change the room.
-  - Callie sees Ruth’s knowledge and assumes an affair or hidden family.
-  - Marian’s historical refusal narrows Caleb’s proposed first tactic; Leon’s access to professional channels exceeds hers, while her physical and household exposure is greater.
-  - Callie investigates whether a contest could be available after admission; no filing occurs in this episode.
-- Ending and next-episode pressure: Callie prepares to contest if the will is admitted and the unknown standing/ground requirements are met. The filing has not occurred; the next episode tests the provisional story hypothesis. Any later contest filing may satisfy Eli’s fictional will/video condition, but would not itself compel discovery, notice, a hold, custody transfer or disclosure. **Changed option:** Callie can ask for separate voluntary access to storage materials; any review gate is invented, not a statutory response period.
-- Research dependencies: Julian: 1963/1964/1965 professional geography, interracial-practice exceptionality, Black professional networks and household context; HIST-1965-007/-016 are retrospective context only. A Black-led/networked practice is a safer hypothesis, not a proven fact. Morgan: county, standing, valid grounds, will terms, filing/admission status and the separate mechanics of custody/disclosure remain unresolved; current code cannot be backdated to 1965. The case is fictional/composite.
-- Proposed changes requiring Paul: Propose Marian Bell Caldwell, her bookkeeper/reading-fund biography and her pre-leak narrowing choice as inventions for this architecture test. No name or biography is source-backed or approved canon.
+## Synopsis
+
+Callie wants a manageable version of Eli to bury; instead she makes a case against him. Ruth's concealment of the fake award begins as a widow's private act and becomes evidence in her daughter's hands. A crowded mourning house offers mutually incompatible fathers: brave young lawyer, rescuer, fee-chasing crook, broken-promise artist. Ben and Leah's practical work makes Callie's competence look less neutral than she thinks. She can name every evasion except her own refusal to sit with Ruth.
+
+Leon explains the bequests in a private family meeting Callie insists on accelerating. Objects and unfamiliar financial structures first provoke jokes, then calculations. The Caldwell beneficiaries transform insult into apparent betrayal. Ruth recognizes the names; Callie turns recognition into a hidden-family accusation without waiting for an answer. Her request to contact Sarah sounds like an offer to manage the scandal. It arrives as a demand that Sarah occupy a role already written for her.
+
+In September 1965, Caleb brings missing shifts and short pay from an invented freight-depot service garage to Eli and Leon. He alleges the change followed his supervisor learning of his marriage to Marian; the pilot does not confirm motive or legal merits. Marian has paid accounts to finish and restricted reading-room money to protect. Caleb volunteers her records. She brings the household pay record, removes her clients' identities from Eli's broad packet and changes the proposed next step to a narrower private follow-up. The marriage keeps a disagreement instead of resolving itself into the lawyers' courage.
+
+At dawn Callie stays, requests independent counsel's assessment of a possible challenge, asks Ruth for voluntary storage access and answers Sarah's condition that she first ask what Sarah wants. No filing, admission, video, storage search or paternity resolution occurs. She sets the pen down unopened and goes to breakfast while the two names remain without the relationship she assigned them.
+
+## Internal beats
+
+1. Ordinary wreck aftermath: Ruth collects effects and conceals the award; no conspiracy grammar.
+2. After burial and several elapsed days, Callie enters the mourning house and substitutes tasks for grief.
+3. Caleb obtains a pay carbon but loses a coworker's willingness to be named.
+4. Marian rejects counting promises as cash for the reading room and keeps client money separate.
+5. Callie accelerates Leon's private explanation; the meeting is not a required probate ceremony.
+6. Objects, dinner wish and storage reference make the family laugh before the Caldwell names stop it.
+7. Callie's hidden-family accusation wounds Ruth and becomes a family theory rather than a fact.
+8. Marian removes identifying records; Caleb returns to the discussion instead of authorizing Eli behind her back.
+9. Callie sends the damaging voicemail; its harm cannot be recalled when she improves the question.
+10. Leon keeps his packet and distinguishes his undertaking from any court power.
+11. Callie requests an independent assessment and voluntary access; Sarah considers a meeting without promising Daniel.
+12. End: Callie stays; Caleb and Marian choose tomorrow's separate work; no laterseason revelation is spent.
+
+## Turn and continuity
+
+**Changed option:** Callie has chosen contact and inquiry but has damaged the easiest route to both. Episode 2 requires independent facts for a contest and living consent for access.
+
+**Chronology:** Present September22–27,2025, with death→burial→mourning explicitly elapsed; historical September1965. See Charlie's outline-v1,40 scenes, as pilot master for scene order.
+
+**Evidence rule:** Historical private action is authored fiction, not information automatically available to Callie. Character belief, artifact-supported sequence and unknown causation remain distinct. The single Episode 2 contest grants no automatic disclosure or custody; money, access, copying and publication require separate actions. The [custody register](../canon/custody-consent.csv) and [reveal matrix](../canon/reveals.csv) track them.

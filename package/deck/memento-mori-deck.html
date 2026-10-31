@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <meta name="description" content="MEMENTO MORI, a ten-episode family mystery and historical drama. Original treatment by Paul Murphy. Canyon House Pictures.">
+  <title>MEMENTO MORI — Canyon House Pictures</title>
+  <style>
+    :root { --ink:#18201f; --cream:#f0e9db; --amber:#c48b46; --muted:#a7aaa0; --edge:#3c4440; }
+    * { box-sizing:border-box; }
+    html { background:#0d1211; }
+    body { margin:0; color:var(--cream); font-family:Georgia,"Times New Roman",serif; }
+    button { font:inherit; }
+    button:focus-visible,a:focus-visible { outline:3px solid var(--amber); outline-offset:5px; }
+    .skip { position:absolute; left:12px; top:-100px; color:var(--cream); z-index:5; }
+    .skip:focus { top:12px; }
+    .shell { min-height:100dvh; padding:28px 32px 18px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:18px; }
+    .deck { width:min(1280px,calc(100vw - 64px),calc((100dvh - 112px)*16/9)); container-type:inline-size; }
+    .slide { aspect-ratio:16/9; width:100%; padding:5.1cqw 6.1cqw 4.8cqw; background:var(--ink); position:relative; display:flex; flex-direction:column; justify-content:center; overflow:hidden; }
+    .slide[hidden] { display:none; }
+    body:not(.enhanced) .shell { justify-content:flex-start; }
+    body:not(.enhanced) .slide { margin-bottom:24px; }
+    .light { color:var(--ink); background:var(--cream); }
+    .amber { color:var(--ink); background:var(--amber); }
+    h1,h2,h3,p { margin:0; font-weight:400; }
+    h1 { font-size:13.2cqw; line-height:.79; letter-spacing:-.065em; }
+    h1 span { display:block; }
+    h2 { font-size:5.2cqw; line-height:1.02; letter-spacing:-.045em; max-width:90%; margin-bottom:3cqw; }
+    h3 { font-size:3.2cqw; line-height:1.08; letter-spacing:-.03em; margin-bottom:1.35cqw; }
+    p { font-size:2.35cqw; line-height:1.34; max-width:34em; }
+    p + p { margin-top:1.4cqw; }
+    .sans { font-family:"Segoe UI",Arial,sans-serif; }
+    .eyebrow { font:500 1.25cqw/1.3 "Segoe UI",Arial,sans-serif; letter-spacing:.15em; text-transform:uppercase; color:var(--amber); margin-bottom:2.1cqw; }
+    .light .eyebrow,.amber .eyebrow { color:#565c50; }
+    .large { font-size:3.35cqw; line-height:1.23; letter-spacing:-.015em; max-width:25em; }
+    .lede { font-size:3.05cqw; line-height:1.27; letter-spacing:-.02em; }
+    .small { font-size:1.5cqw; line-height:1.45; }
+    .note { position:absolute; bottom:2.2cqw; left:6.1cqw; right:6.1cqw; font:400 1.05cqw/1.4 "Segoe UI",Arial,sans-serif; color:var(--muted); }
+    .light .note,.amber .note { color:#50594f; }
+    .pair { display:grid; grid-template-columns:1fr 1fr; gap:5.5cqw; align-items:start; }
+    .pair p { font-size:2.15cqw; }
+    .pair .date { font-size:5.5cqw; line-height:1; letter-spacing:-.045em; color:var(--amber); margin-bottom:1.2cqw; }
+    .light .pair .date { color:#81572c; }
+    .pair .sub { font:500 1.35cqw/1.3 "Segoe UI",Arial,sans-serif; margin-bottom:2cqw; }
+    .episodes { display:grid; grid-template-columns:7cqw 1fr; gap:1.6cqw 2.1cqw; }
+    .episodes dt { font:400 3.3cqw/1 Georgia,serif; color:var(--amber); }
+    .episodes dd { margin:0; font-size:2cqw; line-height:1.3; }
+    .episodes strong { font-weight:400; display:block; font-size:2.25cqw; margin-bottom:.2cqw; }
+    .objects { display:flex; flex-direction:column; gap:1.4cqw; margin-top:.1cqw; }
+    .objects p { display:grid; grid-template-columns:20cqw 1fr; gap:3cqw; font-size:2.05cqw; line-height:1.32; }
+    .objects strong { font-weight:400; font-size:2.5cqw; }
+    .cover { justify-content:space-between; padding-top:4.5cqw; }
+    .cover .eyebrow { margin:0; }
+    .cover h1 { margin-left:-.6cqw; margin-top:.8cqw; }
+    .cover-bottom { display:flex; justify-content:space-between; gap:4cqw; align-items:flex-end; }
+    .cover-bottom p { font-size:1.65cqw; line-height:1.4; }
+    .cover-bottom .format { font-size:2.1cqw; max-width:19em; }
+    .quote { font-size:4.35cqw; line-height:1.18; letter-spacing:-.035em; max-width:20em; }
+    .accent { color:var(--amber); }
+    .navigation { width:min(1280px,calc(100vw - 64px),calc((100dvh - 112px)*16/9)); display:flex; align-items:center; gap:14px; color:#e5e3da; font:14px/1.4 "Segoe UI",Arial,sans-serif; }
+    .navigation button { color:inherit; background:transparent; padding:8px 12px; border:1px solid #69726a; border-radius:0; cursor:pointer; }
+    .navigation button:hover { background:#29322d; }
+    .navigation button:disabled { opacity:.35; cursor:default; }
+    .counter { min-width:70px; text-align:center; font-variant-numeric:tabular-nums; }
+    .nav-end { margin-left:auto; display:flex; align-items:center; gap:14px; }
+    .keyboard-help { color:#aeb6ad; font-size:12px; }
+    .sr-only { position:absolute; width:1px; height:1px; margin:-1px; clip:rect(0,0,0,0); overflow:hidden; }
+    @media (prefers-reduced-motion:no-preference) { .enhanced .slide:not([hidden]) { animation:appear 180ms ease-out; } @keyframes appear { from { opacity:.6; } to { opacity:1; } } }
+    @media (max-width:680px) {
+      .shell { padding:16px 16px 12px; gap:12px; justify-content:flex-start; }
+      .deck,.navigation { width:100%; }
+      .slide { min-height:calc(100dvh - 130px); height:auto; aspect-ratio:auto; padding:38px 26px 64px; overflow:visible; }
+      h1 { font-size:20vw; line-height:.87; }
+      h2 { font-size:42px; max-width:100%; margin-bottom:26px; }
+      h3 { font-size:29px; margin-bottom:12px; }
+      p,.pair p { font-size:20px; line-height:1.35; }
+      p + p { margin-top:16px; }
+      .large,.lede { font-size:26px; }
+      .eyebrow { font-size:11px; margin-bottom:24px; }
+      .note { bottom:18px; left:26px; right:26px; font-size:10px; }
+      .pair { grid-template-columns:1fr; gap:30px; }
+      .pair .date { font-size:52px; margin-bottom:10px; }
+      .pair .sub { font-size:13px; margin-bottom:14px; }
+      .cover { min-height:calc(100dvh - 130px); }
+      .cover-bottom { flex-direction:column; align-items:flex-start; gap:26px; }
+      .cover-bottom p { font-size:15px; }
+      .cover-bottom .format { font-size:20px; }
+      .quote { font-size:31px; }
+      .episodes { grid-template-columns:40px 1fr; gap:18px 12px; padding:0; }
+      .episodes dt { font-size:28px; }
+      .episodes dd { font-size:17px; }
+      .episodes strong { font-size:20px; margin-bottom:5px; }
+      .objects { gap:20px; }
+      .objects p { grid-template-columns:1fr; gap:4px; font-size:18px; }
+      .objects strong { font-size:25px; }
+      .small { font-size:15px; }
+      .navigation { gap:8px; flex-wrap:wrap; }
+      .navigation button { padding:8px; font-size:12px; }
+      .counter { min-width:50px; font-size:12px; }
+      .nav-end { gap:8px; }
+      .keyboard-help { display:none; }
+    }
+    @page { size:13.333333in 7.5in; margin:0; }
+    @media print {
+      html,body { background:white; margin:0; print-color-adjust:exact; -webkit-print-color-adjust:exact; }
+      .shell { display:block; margin:0; padding:0; min-height:0; }
+      .deck { width:13.333333in; max-width:none; }
+      .slide,.slide[hidden] { display:flex!important; width:13.333333in; height:7.5in; min-height:0; aspect-ratio:auto; overflow:hidden; margin:0!important; break-after:page; page-break-after:always; animation:none!important; }
+      .slide:last-child { break-after:auto; page-break-after:auto; }
+      .navigation,.skip,.sr-only { display:none!important; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#presentation">Skip to presentation</a>
+  <main class="shell">
+    <div class="deck" id="presentation" aria-label="MEMENTO MORI pitch presentation">
+
+      <section class="slide cover" aria-labelledby="title-1">
+        <p class="eyebrow">Canyon House Pictures</p>
+        <h1 id="title-1"><span>MEMENTO</span><span>MORI</span></h1>
+        <div class="cover-bottom">
+          <p class="format">A ten-episode family mystery<br>and historical drama</p>
+          <p>Original treatment<br>by Paul Murphy</p>
+        </div>
+      </section>
+
+      <section class="slide light" aria-labelledby="title-2">
+        <p class="eyebrow">The inheritance</p>
+        <h2 id="title-2" class="sr-only">The inheritance</h2>
+        <p class="large">An evasive lawyer leaves his estranged daughter insulting objects and names two strangers in his will.</p>
+        <p class="large">She sets out to expose his secret family. The strangers are the children of a murdered client. Her father’s final confession may be another attempt to control them.</p>
+      </section>
+
+      <section class="slide" aria-labelledby="title-3">
+        <h2 id="title-3">Callie Mori</h2>
+        <p class="lede">A capable lawyer. A furious daughter.<br>A very persuasive theory about the wrong secret.</p>
+        <p>Her parents made their wishes feel like her choices. Investigating Eli’s will lets her turn a difficult father into a case she knows how to prosecute.</p>
+        <p>Then she meets people who will not behave like evidence.</p>
+      </section>
+
+      <section class="slide light" aria-labelledby="title-4">
+        <h2 id="title-4">The family he leaves</h2>
+        <p class="lede">Ruth hides Eli’s fake humanitarian award before the family has finished mourning.</p>
+        <p>She also knows more about his support for the Caldwells than her children do. Protecting his memory has become part of her marriage.</p>
+        <p>Ben counts the money. Leah sees the work of caring for Ruth. Callie wants the answer that will make all of them admit what she already knows about their father.</p>
+      </section>
+
+      <section class="slide" aria-labelledby="title-5">
+        <h2 id="title-5">Daniel and Sarah</h2>
+        <div class="pair">
+          <div>
+            <h3>Daniel</h3>
+            <p>He wants his family beyond Eli’s reach. He can refuse a meeting, a recording, a letter or a public identity.</p>
+            <p>His refusal can stop Callie’s preferred account.</p>
+          </div>
+          <div>
+            <h3>Sarah</h3>
+            <p>She refuses to pretend the help they received meant nothing. She wants to examine the record and judge for herself.</p>
+            <p>Her willingness never supplies her brother’s consent.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide light" aria-labelledby="title-6">
+        <p class="eyebrow">Birmingham, 1965</p>
+        <h2 id="title-6">Caleb and Marian</h2>
+        <p class="lede">Newborn twins. Missing wages. A reading room that still needs work.</p>
+        <p>Caleb repairs equipment at a freight depot and wants to challenge what has been done to him. Marian keeps paid accounts and wants an independent future for their household.</p>
+        <p>They disagree about the risks his lawyers consider acceptable. Marian narrows the proposed tactic. Caleb chooses how far to proceed.</p>
+        <p class="note">The Caldwell family, employer, complaint and case particulars are fictional dramatic designs.</p>
+      </section>
+
+      <section class="slide" aria-labelledby="title-7">
+        <h2 id="title-7">Eli and Leon</h2>
+        <div class="pair">
+          <div>
+            <p class="date">1965</p>
+            <p>Eli sees a case that could make him matter. Leon knows how differently the same room can treat two lawyers.</p>
+            <p>Their choices carry real, unequal responsibility.</p>
+          </div>
+          <div>
+            <p class="date">2025</p>
+            <p>Eli has left instructions. Leon still controls a packet and an account of their partnership across decades.</p>
+            <p>Surrendering the record means losing the power to explain it.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide light" aria-labelledby="title-8">
+        <p class="eyebrow">Episode 1</p>
+        <h2 id="title-8">The Ordinary Wreck</h2>
+        <p class="lede">Eli dies in an ordinary collision. Ruth conceals the award. Callie catches her.</p>
+        <p>The will names Daniel and Sarah Caldwell. Leon will not simply hand over Eli’s explanation. Callie pursues the most satisfying suspicion available and damages the first contact.</p>
+        <p>In 1965, Caleb and Marian’s immediate work and marriage conflict forces the lawyers to change their plan. The past already exceeds Callie’s theory.</p>
+        <p class="note">The pilot ends on Callie’s chosen next action and a Caldwell boundary. No contest filing occurs in Episode 1.</p>
+      </section>
+
+      <section class="slide" aria-labelledby="title-9">
+        <h2 id="title-9">The first half</h2>
+        <dl class="episodes">
+          <dt>1–2</dt><dd><strong>A false explanation meets resistance</strong>Callie investigates, pursues a separate will challenge and meets two people with different terms.</dd>
+          <dt>3–4</dt><dd><strong>Access becomes a fight over custody</strong>A storage unit opens the record. Unilateral copying and a threatening reference force a halt, redacted review and professional losses.</dd>
+          <dt>5</dt><dd><strong>Caleb’s life is interrupted</strong>The historical line reaches his murder after the audience has lived with his work, marriage and plans. Sequence cannot settle who caused it.</dd>
+        </dl>
+      </section>
+
+      <section class="slide" aria-labelledby="title-10">
+        <h2 id="title-10">The second half</h2>
+        <dl class="episodes">
+          <dt>6–7</dt><dd><strong>A dinner and an accounting change the terms</strong>Sarah risks complicating her own story. Ruth and Leon surrender parts of the record they have managed.</dd>
+          <dt>8–9</dt><dd><strong>The photograph survives the explanation</strong>An intact print restores a person to the frame. Eli’s last paper tempts Callie to make everyone’s ending fit.</dd>
+          <dt>10</dt><dd><strong>The living make separate choices</strong>The estate can reach a settlement. The families still decide separately what they will keep private and what may leave the room.</dd>
+        </dl>
+      </section>
+
+      <section class="slide light" aria-labelledby="title-11">
+        <h2 id="title-11">The objects</h2>
+        <div class="objects">
+          <p><strong>The fake award</strong><span>A small fraud the family recognizes immediately. Eli’s moral account is harder to read.</span></p>
+          <p><strong>The pen</strong><span>A gift can carry affection and an instruction. Callie must choose what to do with it.</span></p>
+          <p><strong>Two photographs</strong><span>A cut print and an intact print. Finding the missing person grants no automatic right to publish his image.</span></p>
+          <p><strong>The ledger</strong><span>Support has a material history. Its entries cannot supply forgiveness or consent.</span></p>
+        </div>
+      </section>
+
+      <section class="slide" aria-labelledby="title-12">
+        <h2 id="title-12">The tone</h2>
+        <p class="quote">Family wit sharp enough to draw blood.<br><span class="accent">Danger a clever argument cannot contain.</span></p>
+        <p style="margin-top:3cqw">Paul’s tonal coordinates are <em>Succession</em> and <em>Mississippi Burning</em>. The series joins intimate family combat with a historical household that has its own viewpoint and daily life.</p>
+        <p class="note">Creative comparisons only. No shared rights, production attachments, budget or audience equivalence is claimed.</p>
+      </section>
+
+      <section class="slide light" aria-labelledby="title-13">
+        <h2 id="title-13">A complete ten-episode series</h2>
+        <p class="lede">Approximately hour-long episodes.<br>A family mystery with an enacted ending.</p>
+        <p>The two periods are essential. Recurring homes, offices and contested rooms hold the intimate drama. Period streets, age casting, ensemble gatherings and repeatable physical objects carry the production demands.</p>
+        <p>The audience proposition is adults drawn to family power struggles, morally complicated mysteries and consequential historical drama.</p>
+        <p class="note">Editorial positioning and preliminary production approach. No priced budget, financing, schedule, buyer interest or cast attachment is claimed.</p>
+      </section>
+
+      <section class="slide amber" aria-labelledby="title-14">
+        <p class="eyebrow">Original treatment by Paul Murphy</p>
+        <h2 id="title-14">MEMENTO MORI</h2>
+        <p class="quote">Callie thinks she knows the kind of liar her father was.</p>
+        <p class="lede" style="margin-top:2.7cqw">Finding out she is wrong does not turn him into a better father. It makes her decide what kind of lawyer, daughter and keeper of other people’s stories she will be.</p>
+        <p class="small sans" style="margin-top:2.4cqw">Canyon House Pictures<br>Ten episodes. A complete ending.</p>
+        <p class="note">Fiction. The Caldwell case and expanded story design are invented/composite. No historical verification, consultation or clearance is implied. Ending spoilers follow in the reader appendix.</p>
+      </section>
+
+      <section class="slide" aria-labelledby="title-15">
+        <p class="eyebrow">Reader appendix / ending spoilers</p>
+        <h2 id="title-15">The estate settlement</h2>
+        <p class="lede">Eli’s final paper reveals how he hoped to author peace. It cannot bind the living.</p>
+        <p>Callie withdraws her own attempt to combine everyone’s needs into one answer. The living negotiate the estate outcome separately from the record.</p>
+        <p>She gives up part of her inheritance and accepts continuing professional damage. The cost buys no forgiveness and gives her no ownership of the Caldwell story.</p>
+        <p class="note">Fictional ending. The proposed contest and settlement mechanics are dramatic designs, without a claim of verified legal effect.</p>
+      </section>
+
+      <section class="slide light" aria-labelledby="title-16">
+        <p class="eyebrow">Reader appendix / ending spoilers</p>
+        <h2 id="title-16">What the living keep</h2>
+        <p class="lede">Daniel keeps a private archive.<br>Sarah permits a narrower account.</p>
+        <p>Neither sibling becomes the signature for the other. Money, custody and publication remain separate choices. The uncertainty around the killing survives an honest family record.</p>
+        <p>Callie keeps the fake award beside a photograph she has permission to retain. Neither object cancels the other. Her father remains capable of care and harm in the same account.</p>
+      </section>
+    </div>
+
+    <nav class="navigation" aria-label="Slide navigation">
+      <button type="button" id="previous" aria-label="Previous slide">Previous</button>
+      <span class="counter" id="counter" aria-label="Slide count">1 / 16</span>
+      <button type="button" id="next" aria-label="Next slide">Next</button>
+      <span class="keyboard-help">Left / right arrows · Home / End</span>
+      <div class="nav-end">
+        <button type="button" id="ending" aria-label="Jump to ending spoilers, slide 15">Ending</button>
+        <button type="button" id="print">Print / PDF</button>
+      </div>
+    </nav>
+    <p class="sr-only" id="announcement" aria-live="polite" aria-atomic="true"></p>
+  </main>
+  <script>
+    (() => {
+      const slides = Array.from(document.querySelectorAll('.slide'));
+      const previous = document.getElementById('previous');
+      const next = document.getElementById('next');
+      const counter = document.getElementById('counter');
+      const announcement = document.getElementById('announcement');
+      let index = 0;
+      function showSlide(value, updateHash = true) {
+        index = Math.max(0, Math.min(slides.length - 1, value));
+        slides.forEach((slide, i) => {
+          slide.hidden = i !== index;
+          slide.setAttribute('aria-roledescription', 'slide');
+          slide.setAttribute('role', 'group');
+          slide.setAttribute('aria-label', `${i + 1} of ${slides.length}`);
+        });
+        counter.textContent = `${index + 1} / ${slides.length}`;
+        previous.disabled = index === 0;
+        next.disabled = index === slides.length - 1;
+        announcement.textContent = `Slide ${index + 1} of ${slides.length}: ${slides[index].querySelector('h1,h2').textContent.trim()}`;
+        if (updateHash) history.replaceState(null, '', `#slide-${index + 1}`);
+      }
+      function readHash() {
+        const match = location.hash.match(/^#slide-(\d+)$/);
+        showSlide(match ? Number(match[1]) - 1 : 0, false);
+      }
+      document.body.classList.add('enhanced');
+      previous.addEventListener('click', () => showSlide(index - 1));
+      next.addEventListener('click', () => showSlide(index + 1));
+      document.getElementById('ending').addEventListener('click', () => showSlide(14));
+      document.getElementById('print').addEventListener('click', () => window.print());
+      document.addEventListener('keydown', (event) => {
+        if (event.altKey || event.ctrlKey || event.metaKey || /INPUT|TEXTAREA|SELECT/.test(event.target.tagName)) return;
+        const keys = { ArrowLeft:index - 1, PageUp:index - 1, ArrowRight:index + 1, PageDown:index + 1, Home:0, End:slides.length - 1 };
+        if (Object.hasOwn(keys, event.key)) { event.preventDefault(); showSlide(keys[event.key]); }
+      });
+      window.addEventListener('hashchange', readHash);
+      readHash();
+    })();
+  </script>
+</body>
+</html>
