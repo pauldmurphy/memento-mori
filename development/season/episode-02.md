@@ -1,20 +1,38 @@
 # Episode 02 — The Challenge
 
-Status: provisional architecture test card; corrective revision by Alex; not an episode draft or approved canon. Owner: Alex.
+Owner: Maya Brooks (`maya`). Expanded synopsis and internal beat sheet, **MM-DP-1**, 2026-10-30. **Status: proposed development expansion for independent review and Alex's approval**, based on the approved provisional architecture. Original treatment by Paul Murphy. The [reconciliation](../canon/package-reconciliation.md) identifies new fictional choices, source departures and approval provenance. No screenplay or researched historical/legal finding is created by this prose.
 
-- Canon version: provisional architecture-test-v2; session-authorized working direction, not approved canon.
-- Protagonist objective and stakes: Callie seeks access to estate materials; Daniel Caldwell seeks to stop a white family converting Caleb into Eli’s redemption. Stakes are privacy, custody and whether the record moves during a separate, invented review beat.
-- Contemporary timeline conflict and choices: **Provisional story hypothesis, not a locked fact or legal conclusion:** after the will is admitted to probate, Callie files a contest within the current-hypothesis 180-day window under Ala. Code §§ 43-8-210/215, only if she has standing and a valid ground. Dramatically, she wants to test whether the will is challengeable and protect any interest she can establish; that motive alone is not a valid ground, and no specific ground is chosen. The admission date, county and ground remain unset. Under the fictional will/video condition, this filing may satisfy Eli’s condition and permit Leon to play the opening of the video. Daniel refuses an interview or recording; Sarah permits a limited meeting on her terms; Ruth admits she knew the Caldwells. This filing does not automatically cause discovery, notice, a hold, custody transfer, disclosure, settlement, distribution or publication permission. Any separate initial-review beat is invented, not procedure.
-- Historical timeline conflict and choices: **Provisional sequence, not fact.** Caleb brings the family/work problem to the firm. Marian, whose proposed goal is to preserve independent income and seed a reading fund, chooses a private meeting with the community women who rely on her bookkeeping rather than let Eli define the household’s public position. She permits Caleb to test a bounded filing but refuses names and a public tactic. Caleb accepts the narrower move reluctantly. Eli wants visible pressure; Leon warns that Marian’s exposure is not shared equally. Evidence may establish only competing recollections of the plan; whether it was filed remains unknown.
-- Why these timelines meet in this episode: The one proposed post-admission contest filing may satisfy a condition in Eli’s fictional instructions to Leon; it does not create statutory access to the video or trigger later process. Daniel’s refusal prevents the video becoming a license to publish Caleb’s story. The historical line is a consent negotiation, not a clean causal explanation.
-- Character turns and consequences: Daniel becomes a co-driving present protagonist with operational refusal power. Sarah chooses a separate channel. Marian’s community obligation makes her choice more than household protection and conflicts with Caleb’s appetite for public force.
-- Clues, audience belief and reliability: Character belief: Eli’s video claims the will was “built to be challenged.” Artifact-supported sequence: the fictional recording exists and Callie considers a proposed contest; neither proves consent, filing validity or causation. Unknown: recording authority, custody, forum, leak path and later violence. HIST-1965-001/008 provide Birmingham context only.
-- Major beats:
-  - After the will’s proposed admission to probate, Callie files the contest within the 180-day hypothesis only if standing and a valid ground exist; the admission date, county and ground remain unset.
-  - Daniel rejects a camera; Sarah produces letters but withholds originals.
-  - Ruth confirms contact with the Caldwells.
-  - Eli’s video says the will was “built to be challenged.”
-  - Marian chooses a bounded private consultation, changing what Caleb can authorize through the firm.
-- Ending and next-episode pressure: The contest filing may satisfy Eli’s fictional will/video condition, but does not compel Leon to release any packet or set later process in motion. Daniel conditions use on private review and Sarah reserves a separate decision. **Changed option:** Callie may inspect only with separate voluntary authorization that preserves both refusals; the proposed review beat is not a legal response deadline.
-- Research dependencies: Morgan: Ala. Code §§ 43-8-210 and 43-8-215 for the Alabama 2025 contest hypothesis (for a will filed on/after 2023-01-01); county, standing, grounds, will and filing/admission status, discovery versus private disclosure, recordings and privilege remain unresolved. The current text is secondary-reproduced, cross-checked against an official legislative PDF; the codified portal was inaccessible (2026-10-30), so no official codified verification or clearance is claimed. Julian: period terminology, courthouse access and Black-led/networked practice; HIST-1965-002 is context, not Caleb’s mechanism. Nina/Maya: consent boundaries and proposed lives for Daniel/Sarah. Unresolved: ages, custody and law.
-- Proposed changes requiring Paul: Propose Daniel as co-driver from episode 2, Sarah’s independent consent channel and Marian’s community-facing choice. These are additions, not source canon.
+## Synopsis
+
+After shiva, Callie's independent lawyer compares the estate copy with an earlier instrument in which she has a financial interest. Inconsistent attestation-page scans make execution a question worth investigating. The lawyer brings the season's single good-faith challenge after admission. Callie imagines that filing has ended Eli's control until Leon explains that it satisfies a condition Eli privately wrote for him. It creates no automatic power over the Caldwell file.
+
+Daniel and Sarah enter a family already arguing about who they are. Callie's paternity question humiliates her rather than resolving the room. They are Caleb's children, not Eli's. Ruth admits contact that predates the will. Sarah offers selected correspondence and keeps the originals. Daniel refuses a recording and is prepared to leave rather than be used as a cooperative beneficiary.
+
+Eli's first video segment is infuriatingly alive. He frames the estate as an imperfect obligation and congratulates the challenger without answering the accusation plainly. Callie stops the recording before it turns into a successful posthumous deposition. Sarah asks for records rather than more personality; Daniel asks who will hold the copies. Their different demands produce a separately negotiated storage visit with an inventory and no blanket scanning permission.
+
+In 1965, Caleb and Marian return the proposed packet to the people whose information it uses. Marian meets community women who rely on her accounts and discovers that her leadership of the reading room is not a license to expose them. Caleb wants a public correction, but agrees to the narrower statement rather than purchase vindication with their livelihoods. He keeps his own fuller account. Eli agrees to a limit while believing he can preserve the original tactic's power. Leon prepares a duplicate.
+
+The present meeting ends without a unified family position. Daniel has said no to recording, not no to every future question. Sarah has said yes to a bounded encounter, not yes on Daniel's behalf. Callie's legal act and her new access arrangement are different accomplishments, and neither makes her right.
+
+## Internal beats
+
+1. Time jump carries action beyond shiva; independent counsel assesses interest, admission and disputed execution.
+2. Counsel files once; Eli's eccentricity is not treated as the ground.
+3. Daniel refuses recording before anyone tells him this is merely a family conversation.
+4. Sarah puts selected letters on the table while retaining her originals.
+5. Callie's secret-paternity assumption is corrected; Ruth owns prior contact.
+6. Leon plays a limited video segment under Eli's fictional instructions.
+7. Callie interrupts the performance; Sarah asks for original records rather than another recording chapter.
+8. Marian's community meeting forces her to surrender unilateral control of others' identifiers.
+9. Caleb accepts the narrow statement and retains his own account of the dispute.
+10. Leon prepares a duplicate through a professional channel without claiming it is a sealed court record.
+11. Living participants arrange a private storage inspection and copying limits.
+12. End: Daniel and Sarah retain distinct options; Callie has a visit she cannot command.
+
+## Turn and continuity
+
+**Changed option:** Episode 3 can inspect agreed materials, but a key is not a release and a filed contest is not a discovery machine.
+
+**Chronology:** Present earlyOctober2025; fictional admission and counsel's Episode2 filing precede inspection. Historical lateSeptember1965; no assertion that a draft was formally filed.
+
+**Evidence rule:** Historical private action is authored fiction, not information automatically available to Callie. Character belief, artifact-supported sequence and unknown causation remain distinct. The single Episode 2 contest grants no automatic disclosure or custody; money, access, copying and publication require separate actions. The [custody register](../canon/custody-consent.csv) and [reveal matrix](../canon/reveals.csv) track them.

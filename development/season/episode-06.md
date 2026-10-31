@@ -1,20 +1,38 @@
 # Episode 06 — The Silence Bargain
 
-Status: provisional architecture test card; corrective revision by Alex; not an episode draft or approved canon. Owner: Alex.
+Owner: Maya Brooks (`maya`). Expanded synopsis and internal beat sheet, **MM-DP-1**, 2026-10-30. **Status: proposed development expansion for independent review and Alex's approval**, based on the approved provisional architecture. Original treatment by Paul Murphy. The [reconciliation](../canon/package-reconciliation.md) identifies new fictional choices, source departures and approval provenance. No screenplay or researched historical/legal finding is created by this prose.
 
-- Canon version: provisional architecture-test-v2; session-authorized working direction, not approved canon.
-- Protagonist objective and stakes: Sarah wants to test what Eli’s support did without letting an accounting become a verdict or a price for her story. She initially withholds her own annotated household records because they include entries that could make the family’s dependence look less simple. Daniel wants to reject the money and the Mori family’s authority to name the bargain. The stakes are asset/accounting questions, distinct from consent or disclosure.
-- Contemporary timeline conflict and choices: Callie proposes a voluntary, private comparison of records, separate from record terms; it is not a court-ordered or statutory hold. Daniel rejects money and does not authorize Sarah to speak for him. Sarah chooses to put the selected records she personally holds—including entries that may complicate her account—into an independent comparison, and commits to keep gaps and mixed results visible rather than curate a clean story. She loses control over how those private financial details are interpreted and risks weakening her own preferred account; she does not accept payment, authorize publication, or give up any separate choice. Ruth offers evidence of how payments affected the Mori household. Leon supplies accounting material for comparison without claiming it is complete. **Invented story beat, not procedure:** the comparison is voluntary and separate from any disclosure proposal; the single post-admission contest neither triggers discovery nor grants access, custody, or disclosure. **Non-substitutable outcome:** Sarah’s act exposes her own financial history to scrutiny; Daniel’s refusal remains his own. **Changed option:** Episode 07 can compare Sarah’s records with other voluntarily supplied entries and identify both corroboration and gaps, but no result determines ownership, moral meaning, or publication.
-- Historical timeline conflict and choices: **Provisional aftermath sequence, not fact.** Marian uses some support to keep the reading fund and household independent, refuses a payment tied to Eli’s preferred silence, and keeps one ledger outside the lawyers’ custody. Eli wants a permanent structure; Leon warns that safety is not settlement. Character belief: Eli calls support repair; Marian calls it conditional control. Surviving record/evidence: payments and ledgers may show transfers, not consent or enforceability. Unknown: terms, custody, legal effect and whether any payment followed a promise.
-- Why these timelines meet in this episode: Daniel and Sarah make different choices about money and disclosure, while Marian’s refusal keeps lawyers from turning silence into their instrument.
-- Character turns and consequences: Sarah gives up the protection of a selectively clean financial story and accepts private scrutiny of her own records; Daniel’s refusal remains consequential without blocking her choice; Leon contributes without claiming a complete account; Ruth’s enabling becomes an active present fact.
-- Clues, audience belief and reliability: Payment/support is source-backed fiction. It does not prove restitution, an enforceable silence agreement or criminal exposure. HIST-1965-004 is dated federal-transition context only.
-- Major beats:
-  - Callie separates the estate memo from the record-release proposal.
-  - Daniel rejects a check and demands no publication using his name.
-  - Sarah puts her own complicating records into a bounded, private comparison, without accepting money or authorizing a release.
-  - Marian refuses one payment condition and preserves the reading-fund ledger.
-  - Ruth reveals she enabled later payments while resenting their cost.
-- Ending and next-episode pressure: Sarah gives the selected records to the proposed independent reviewer; Daniel leaves his refusal intact, and no one treats her act as consent on his behalf. **Changed option:** Episode 07 can compare voluntarily supplied financial records and distinguish authenticated transfers from gaps; broader record use remains a separate unresolved question, and no payment can be represented as forgiveness or publication consent.
-- Research dependencies: Morgan: settlement/renunciation, custody, privilege and funds without consent; current law is not historical law. Julian: period duties and survivor threats; no bargain is documented. Nina: wife’s gendered agency and distinct Daniel/Sarah refusal paths.
-- Proposed story changes (still provisional): Sarah exposes her own complicating financial records to private comparison; Daniel refuses payment without speaking for Sarah; Marian refuses a silence-linked payment. Keep accounting separate from estate terms and record disclosure.
+## Synopsis
+
+The dinner Eli requested finally happens after delays. Everyone arrives with a calculation. Ben wants the cost to the Mori children acknowledged. Sarah asks what the same support did for the family it reached. Daniel rejects the idea of a price list and then hurts Sarah by speaking as if accepting help were a mistake only other people make.
+
+Callie offers separate financial comparison and record discussion. Sarah makes that distinction costly by opening her own annotated accounts. The selected pages include redirected funds and a return she never told Daniel about. She initially withheld them because they spoiled a clean account of Eli's helpfulness and their dependence. Now she risks her brother's judgment and gives the independent reviewer the adverse pages as well as the favorable ones. Personal letters remain outside. She has accepted scrutiny, not a payment or a release.
+
+Ruth contributes evidence of transfers she enabled and admits resentment she has made sound nobler in retrospect. Callie makes a cruel summary of Eli's final manipulation: he primed them for an affair so that a worse history could look like relief. Ruth's anger does not answer it. The dinner breaks apart without making either the dead father or the living investigator the room's final authority.
+
+After Caleb's death, Eli proposes assistance in a form that couples money to the quiet future he believes will protect the household. Marian refuses the condition although it makes immediate survival harder. Leon has declined an uncertain escalation he fears would endanger the family, and preserved a duplicate outside the working file. His constrained decision is not a second equally protected vote for Eli's plan.
+
+Marian later accepts unconditional practical help and keeps her own ledger. The lawyers cannot turn that acceptance into agreement with their causal account. The episode gives the silence bargain contested descriptions rather than a clean freely negotiated contract. Sarah's present pages arrive for comparison. Daniel has not consented for her, and she has not consented for him.
+
+## Internal beats
+
+1. Postponed post-shiva dinner begins as a practical meeting and becomes an argument about who paid.
+2. Ben counts foregone Mori resources; Sarah makes the uncounted Caldwell absence visible.
+3. Daniel's refusal crosses into speaking for Sarah; she stops him.
+4. Callie separates voluntary financial comparison from publication terms.
+5. Sarah retrieves adverse entries from her own annotated accounts.
+6. She supplies selected financial pages privately and reserves letters and all publication.
+7. Ruth supplies enabling records and names her mixed motives.
+8. Callie's cruel shorthand wounds Ruth without providing a complete verdict.
+9. Historical Eli offers money with his preferred quiet future attached.
+10. Marian refuses that condition, then accepts later unconditional practical help.
+11. Leon preserves a duplicate while owning his choice not to pursue immediate uncertain escalation.
+12. End: dinner fails, but Sarah has committed to a financial comparison that can change her own account.
+
+## Turn and continuity
+
+**Changed option:** Episode 7 can corroborate and contradict financial stories using voluntarily supplied records; it cannot purchase consent or certify a moral total.
+
+**Chronology:** Present lateOctober2025; historical first weeks after Caleb's death. A payment and a promise are different artifacts; no enforceable silence contract is asserted.
+
+**Evidence rule:** Historical private action is authored fiction, not information automatically available to Callie. Character belief, artifact-supported sequence and unknown causation remain distinct. The single Episode 2 contest grants no automatic disclosure or custody; money, access, copying and publication require separate actions. The [custody register](../canon/custody-consent.csv) and [reveal matrix](../canon/reveals.csv) track them.

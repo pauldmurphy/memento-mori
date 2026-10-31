@@ -1,20 +1,38 @@
 # Episode 07 — Blood Accounting
 
-Status: provisional architecture test card; corrective revision by Alex; not an episode draft or approved canon. Owner: Alex.
+Owner: Maya Brooks (`maya`). Expanded synopsis and internal beat sheet, **MM-DP-1**, 2026-10-30. **Status: proposed development expansion for independent review and Alex's approval**, based on the approved provisional architecture. Original treatment by Paul Murphy. The [reconciliation](../canon/package-reconciliation.md) identifies new fictional choices, source departures and approval provenance. No screenplay or researched historical/legal finding is created by this prose.
 
-- Canon version: provisional architecture-test-v2; session-authorized working direction, not approved canon.
-- Protagonist objective and stakes: Callie wants to understand what Eli’s money did without turning payments into a verdict. Daniel wants harm acknowledged, not recast as charity; Sarah wants complex evidence preserved. Leon wants to keep believing he was only a conduit. The stakes are accounting for identified transfers and moral responsibility, not determinations of title or ownership.
-- Contemporary timeline conflict and choices: The fake charity, trusts and ledgers expose decades of support. Callie does not treat the contest as compelling filing or disclosure; whether any record could enter a probate file, or be public, remains unresolved and depends on the actual filing, record and court rules. Daniel asks for an independent audit; Sarah keeps personal letters outside it. When comparison identifies entries Leon routed, he stops describing himself as a neutral courier: he marks his own role beside those entries in a private working copy and gives the reviewer his account of what he did and cannot remember. He knows the notes expose him to the family’s judgment and may damage his claim to have merely preserved the records. He commits to leave unexplained entries unexplained, not certify a clean account. This is a moral choice, not a legal admission or finding of liability. **Invented story beat, not procedure:** private accounting follows separate disclosure and settlement questions by design; the single post-admission contest does not trigger discovery, custody, or disclosure. **Non-substitutable outcome:** some transfers are authenticated while gaps and uncertain ownership remain; Leon takes responsibility for his specific part in the record without gaining authority over the family’s account. **Changed option:** Episode 08 begins with Leon’s role in the payments no longer available as a hidden explanation or an implied claim to the photograph; image and family control remain separate.
-- Historical timeline conflict and choices: **Provisional sequence, not fact.** Marian directs some support into the reading fund and refuses to let Eli’s paperwork define ownership; she chooses an independent community witness for her ledger. Caleb would use the money to keep the legal action moving, while Marian prioritizes durable community control. Leon refuses to certify a clean account because his access to the firm’s records was greater than Marian’s and his physical exposure was not the same. Surviving evidence may authenticate transfers; unknowns include missing years, purpose, ownership and legal status.
-- Why these timelines meet in this episode: Present asset control meets the historical question of whether money can carry responsibility without owning the survivor.
-- Character turns and consequences: Leon reverses his self-protective account of his role by recording what he routed and what he cannot establish; he loses the shelter of being only the custodian and commits to a visibly incomplete account. Daniel still seeks an audit, Sarah protects her letters, and Marian’s redirection changes the children’s options without equating their choices with Leon’s.
-- Clues, audience belief and reliability: Ledgers/checks are source-backed fiction and unreliable as moral labels; missing transfers may be concealment or ordinary loss. HIST-1965-006 supports a research trail, not archive contents. No tax, charity or criminal status is claimed.
-- Major beats:
-  - An accountant/researcher identifies inconsistent entity records without calling fraud.
-  - Daniel requests a forensic audit; Sarah protects private letters.
-  - Marian redirects or refuses support and names community control as the purpose.
-  - Leon marks the entries he routed and gives a private account that accepts responsibility without claiming a complete ledger.
-  - A missing year prevents a complete ledger narrative.
-- Ending and next-episode pressure: The private comparison authenticates selected transfers, while Sarah’s letters remain outside it. Leon’s own account now sits beside the financial record, without settling the meaning of the payments. **Changed option:** Episode 08 cannot use the photograph to complete or absolve Leon’s account; the hidden box’s image/name terms remain unresolved, and authentication determines no title, ownership, or publication authority.
-- Research dependencies: Morgan: trust/charity ownership, fiduciary duties, notice, tax/registration and public probate access; none is triggered automatically by contest filing. Julian: period family support and networks; HIST-1965-007/008 only contextual, not a fictional case match. Nina: money must not equal consent. All remain unresolved.
-- Proposed story changes (still provisional): Make Leon’s voluntary account of the entries he routed a costly admission of moral responsibility, not a legal finding; keep Marian’s redirection and asset authentication distinct from publication.
+## Synopsis
+
+The financial reviewer matches some checks and finds gaps no honest total can absorb. A span of missing entries could reflect changed routes, missing paper or interrupted support. The invented-sounding charity name does not prove fraud, and an authenticated transfer says nothing by itself about forgiveness or title. Daniel requests that the comparison include unfavorable entries. Sarah agrees while keeping personal correspondence outside its terms.
+
+Callie must resist using each successful verification to justify the next access request. Ben discovers that defending Eli's reputation and restoring his own expected share are different projects. Leah insists that someone plan Ruth's actual housing rather than continue valuing the dead. The estate engine now asks what each living person will trade, not which document can make the allocations painless.
+
+Leon has called himself a conduit. The matched entries show decisions about timing, recipients and conditions that he made. He annotates those entries and adds what he cannot remember. He does not claim equal guilt with Eli or exemption through coercion. He voluntarily withdraws from a planned honorary address rather than repeat the unqualified partnership legend. His professional standing is a live loss, not only guilt described across a table.
+
+In the historical aftermath, Marian tries to secure the reading fund by retaining exclusive control. The other women refuse to make their labor another person's private monument. Caleb's pre-death tool plans remain on a page, but he cannot direct the later money. Marian gives a collaborator a duplicate ledger and key. She loses authority and gains a project that can work when she is absent.
+
+Ruth independently brings the award and household ledger to the Caldwell-selected review table. Callie did not plan the act, and Ben sees that Ruth's account has edited their childhood too. Ruth cannot regain custody merely because the result is painful. Selected material is now held outside the Mori household, Leon's annotations remain beside it, and the next artifact cannot complete or absolve the accounting.
+
+## Internal beats
+
+1. Reviewer matches selected transfers and declines to invent a complete total.
+2. A missing period remains a gap instead of proof of concealment or nonpayment.
+3. Daniel asks for adverse comparison; Sarah protects the letters she did not offer.
+4. Callie accepts that authentication does not expand permission.
+5. Leah makes Ruth's housing an active estate problem.
+6. Leon marks the entries he actually routed, including unresolved memory.
+7. He withdraws from his honorary address rather than keep the clean professional story.
+8. Historical Marian's collaborators reject her sole control of their work.
+9. Caleb's earlier plans remain records, not post-death action.
+10. Marian hands over duplicate books and a key, changing the reading fund's future.
+11. Ruth moves award and ledger into Caldwell-selected review before Callie can frame them.
+12. End: three custodial monopolies have weakened; none of the changes proves ownership or moral settlement.
+
+## Turn and continuity
+
+**Changed option:** Episode 8 must treat the photograph as its own family-representation choice, not the last exhibit in Leon's financial defense.
+
+**Chronology:** Present lateOctober2025; historical late1965. Correction from the older card: Caleb does not actively choose use of post-death support; Marian confronts his earlier plans.
+
+**Evidence rule:** Historical private action is authored fiction, not information automatically available to Callie. Character belief, artifact-supported sequence and unknown causation remain distinct. The single Episode 2 contest grants no automatic disclosure or custody; money, access, copying and publication require separate actions. The [custody register](../canon/custody-consent.csv) and [reveal matrix](../canon/reveals.csv) track them.
