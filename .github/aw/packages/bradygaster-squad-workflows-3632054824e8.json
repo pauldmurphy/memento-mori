@@ -133,17 +133,17 @@
     {
       "source": "workflows/package/squad-implement-worker.md",
       "destination": ".github/workflows/squad-implement-worker.md",
-      "sha256": "425eaa43b0487209f4c2885d9b34bb2a80d5973c04f7c409727575a80879f9ed"
+      "sha256": "7b9598b369c9b139c04fe75a6cc859e392eddb7767af09cd874ebb4134cbd583"
     },
     {
       "source": "workflows/package/squad-improvement-worker.md",
       "destination": ".github/workflows/squad-improvement-worker.md",
-      "sha256": "099b5247f2f8f7f0645b77cc0ecdf16d0796e7d77ec2fe527f35d87d7eefa766"
+      "sha256": "49fbfa404343b1f4de45f3d9d2ecdbe7678205eea38ed428d6334f0c8769616a"
     },
     {
       "source": "workflows/package/squad-retro.md",
       "destination": ".github/workflows/squad-retro.md",
-      "sha256": "d62d3a3e9969559c51ea49a367c524fb8ead5bff48f8fede9d4c905a0dfb2723"
+      "sha256": "45d66558986b03b74771071acb14ab3954bce6ca3fe1e27eee3d1e5ada6c060d"
     },
     {
       "source": "workflows/package/squad-review.md",
@@ -153,7 +153,7 @@
     {
       "source": "workflows/package/squad.md",
       "destination": ".github/workflows/squad.md",
-      "sha256": "8409c2ef60416c7e793a35a9c7e3b837c60856df171043e2e9a2522bd1645362"
+      "sha256": "829bc5e72b0a8a1cb0be260ef7dd6f4da54e30d649831598b683c5ca17d6ea27"
     }
   ]
 }
