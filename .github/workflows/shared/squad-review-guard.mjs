@@ -62,11 +62,9 @@ export function validateAttribution(value, registry, repository, issue) {
   requireThat(registry?.schema === 'squad-agent-provenance/v1' && registry.schema_version === 1 &&
     registry.agents && typeof registry.agents === 'object', 'invalid committed agent registry');
   for (const id of [value.author_agent, value.reviewer_agent]) {
-    const agent = typeof id === 'string' ? registry.agents[id] : undefined;
     requireThat(typeof id === 'string' && ID.test(id) &&
-      Object.hasOwn(registry.agents, id) && agent.status === 'active' &&
-      agent.persistent_name === agent.display_name,
-    'unknown, inactive, or aliased stable agent ID');
+      Object.hasOwn(registry.agents, id) && registry.agents[id].status === 'active' &&
+      registry.agents[id].persistent_name === id, 'unknown, inactive, or aliased stable agent ID');
   }
   requireThat(value.author_agent !== value.reviewer_agent, 'author and reviewer must be distinct');
   return value;
