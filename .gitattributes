@@ -10,3 +10,5 @@
 *.fountain text eol=lf
 .squad/casting/*.json text eol=lf
 source/*.txt -text -whitespace
+
+.github/workflows/*.lock.yml linguist-generated=true
